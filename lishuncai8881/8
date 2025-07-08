@@ -10,11 +10,11 @@
   "sites": [
 {"key": "js_豆瓣","name": "💥顺子改版💥","type": 3,"api":"./drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./drpy_js/drpy.js"},
 {"key": "03影院https://www.03yy.live","name": "💥03影院💥","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./json/03%E5%BD%B1%E9%99%A2.json","jar": "./jar/xbpq.jar"},
-{ "key": "瓜子影视","name": "💥瓜子💥","type": 3,"jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/spider.jar","api": "csp_Gz360","searchable": 1,"quickSearch": 0,"filterable": 1},
+{ "key": "瓜子影视","name": "💥瓜子💥","type": 3,"jar": "https://gh-proxy.net/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/spider.jar","api": "csp_Gz360","searchable": 1,"quickSearch": 0,"filterable": 1},
 { "key": "狐狸君", "name": "💥狐狸君💥", "type": 3, "api": "csp_XBPQ","jar": "./jar/xyqxbpq.jar", "changeable": 1, "searchable": 1, "quickSearch": 0, "filterable": 1, "ext":"./json/狐狸君.json"},
-{ "key": "热播影视", "name": "🤖热播影视", "type": 3,"jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/spider.jar", "api": "csp_AppRJ", "searchable": 1, "quickSearch": 0, "filterable": 0, "ext": { "url": "http://v.rbotv.cn" } },
-{ "key": "天天影视", "name": "🤖天天影视", "type": 3,"jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/spider.jar", "api": "csp_AppRJ", "searchable": 1, "quickSearch": 0, "filterable": 0, "ext": { "url": "http://tt.ysdqjs.cn" } },
-{ "key": "浪酷影视", "name": "🤖浪酷影视", "type": 3,"jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/spider.jar", "api": "csp_AppRJ", "searchable": 1, "quickSearch": 0, "filterable": 0, "ext": { "url": "http://v.lkuys.cn" } },
+{ "key": "热播影视", "name": "🤖热播影视", "type": 3,"jar":"https://gh-proxy.net/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/spider.jar", "api": "csp_AppRJ", "searchable": 1, "quickSearch": 0, "filterable": 0, "ext": { "url": "http://v.rbotv.cn" } },
+{ "key": "天天影视", "name": "🤖天天影视", "type": 3,"jar":"https://gh-proxy.net/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/spider.jar", "api": "csp_AppRJ", "searchable": 1, "quickSearch": 0, "filterable": 0, "ext": { "url": "http://tt.ysdqjs.cn" } },
+{ "key": "浪酷影视", "name": "🤖浪酷影视", "type": 3,"jar":"https://gh-proxy.net/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/spider.jar", "api": "csp_AppRJ", "searchable": 1, "quickSearch": 0, "filterable": 0, "ext": { "url": "http://v.lkuys.cn" } },
 {"key":"甜圈短剧","name":"🤖甜圈短剧","type":3,"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/GrUtyqIt.png;md5;d3ee0ea2430f011ffb949dcaa4c8b69e","api":"csp_TianQuanGuard","searchable":1,"quickSearch":0,"filterable":1,"timeout":10},
 {"key": "csp_XYQHiker_电影盒子","name":"👾电影盒子","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":0,"filterable":1,"ext":"./Hk/电影盒子.json","jar":"./jar/Hk.jar"},
 {"key": "csp_555电影","name": "👾555电影","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"jar": "./jar/xyqxbpq.jar","ext":"./json/555影视.json"},
@@ -36,29 +36,29 @@
       "key": "drpy_js_奇珍异兽",
       "name": "🍥奇珍异兽[js]",
       "type": 3,
-      "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
-      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/奇珍异兽.js"
+      "api": "https://gh-proxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
+      "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/奇珍异兽.js"
     },
     {
       "key": "drpy_js_优酷",
       "name": "🍥优酷[js]",
       "type": 3,
-      "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
-      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/优酷.js"
+      "api": "https://gh-proxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
+      "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/优酷.js"
     },
     {
       "key": "drpy_js_腾云驾雾",
       "name": "🍥腾云驾雾[js]",
       "type": 3,
-      "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
-      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/腾云驾雾.js"
+      "api": "https://gh-proxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
+      "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/腾云驾雾.js"
     },
     {
       "key": "drpy_js_百忙无果",
       "name": "🍥百忙无果[js]",
       "type": 3,
-      "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
-      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/百忙无果.js"
+      "api": "https://gh-proxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
+      "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/百忙无果.js"
     },
 {"key": "csp_XYQHiker_瓜子影院","name":"🌸瓜子影院(XYQH)","type":3,"api":"csp_XYQHiker", "jar": "./jar/custom_spider.jar;md5;28c09f10019f5b9f0cf9094e67f051f3","searchable":1,"quickSearch":0,"filterable":1,"ext":"./XYQHiker/瓜子影视.json"},
 {"key": "csp_XYQHiker_动漫巴士","name":"🚌动漫巴士(XYQH)","type":3,"api":"csp_XYQHiker","jar": "./jar/custom_spider.jar","searchable":1,"quickSearch":0,"filterable":1,"ext":"./XYQHiker/动漫巴士.json"},
