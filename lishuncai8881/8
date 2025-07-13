@@ -12,6 +12,8 @@
 {"key": "03影院https://www.03yy.live","name": "💥03影院💥","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./json/03%E5%BD%B1%E9%99%A2.json","jar": "./jar/xbpq.jar"},
 { "key": "瓜子影视","name": "💥瓜子💥","type": 3,"jar": "https://gh-proxy.net/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/spider.jar","api": "csp_Gz360","searchable": 1,"quickSearch": 0,"filterable": 1},
 {"key":"影视大全1","name":"💥影视大全💥","type":3,"api":"csp_XBPQ","jar": "./jar/xyqxbpq.jar","ext":{"主页url":"https://www.iysdq.cc/","分类url":"https://www.iysdq.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}},
+{"key":"cj_旺旺1","name":"💥旺旺短剧💥","type":1,"api":"https://ww.tyyszy5.com/api.php/provide/vod/?ac=lis","playerType":1,"searchable":1,"changeable":1,"categories":["短剧"]},
+
 
 {
         "key": "剧评",
@@ -49,31 +51,6 @@
 {"key": "js_星芽短剧","name": "🎦星芽短剧","type": 3,"api":"./drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./drpy_js/星芽短剧.js"},
 {"key": "js_蓝莓短剧","name": "🎦蓝莓短剧","type": 3,"api": "./drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./drpy_js/蓝莓短剧.js"},
 {"key": "河马短剧","name": "💯 河马｜短剧","type": 3,"api": "./py/河马短剧.py", "jar":"./jar/河马.jar","searchable": 1,"changeable": 1,"quickSearch": 0,"filterable": 1,"playerType": 2},
-       {
-            "key": "偷乐短剧",
-            "name": "💯偷乐｜短剧",
-            "type": 3,
-            "api": "./py/偷乐短剧.py",
-            "jar": "./jar/spider.jar",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "playerType": 2
-        },
-        {
-            "key": "猎手影视",
-            "name": "💯猎手｜影视",
-            "type": 3,
-            "api": "./py/猎手影视.py",
-            "jar": "./jar/spider.jar",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "playerType": 2
-        },
-
 {"key": "厂长影院","name": "🎬厂长影院","type": 3,"jar": "./jar/xyqxbpq.jar","api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"changeable": 1,"ext":"./json/厂长影院.json"    },
 {"key":"csp_XBPQ_老王影视","name":"🎬老王影视","type":3,"api":"csp_XBPQ","jar": "./jar/xbpq.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"./json/%E8%80%81%E7%8E%8B.json"},
 {"key": "苹果影视","name": "🍎苹果影视","type": 3,"api": "csp_LiteApple","jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/spider.jar","searchable": 1,"quickSearch": 0,"filterable": 1},
