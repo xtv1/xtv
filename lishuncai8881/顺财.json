@@ -47,11 +47,17 @@
 { "key": "o站影视", "name": "💟动漫O站", "type": 3, "api": "csp_XBPQ","searchable":1,"quickSearch":0,"filterable":1, "jar": "./jar/xyqxbpq.jar", "ext":"./json/动漫O站.json"},
 { "key": "drpy_js_黑木耳资源", "name": "💟木耳影视", "type": 3, "api": "./lib/drpy2.min.js","ext":"./js/木耳影视.js" },
 {"key": "js_星芽短剧","name": "🎦星芽短剧","type": 3,"api":"./drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./drpy_js/星芽短剧.js"},
-{"key": "js_蓝莓短剧","name": "🎦蓝莓短剧","type": 3,"api": "./drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./drpy_js/蓝莓短剧.js"},
+
 {"key": "河马短剧","name": "💯 河马｜短剧","type": 3,"api": "./py/河马短剧.py", "jar":"./jar/河马.jar","searchable": 1,"changeable": 1,"quickSearch": 0,"filterable": 1,"playerType": 2},
 {"key": "偷乐短剧","name": "💯偷乐｜短剧","type": 3,"api": "./py/偷乐短剧.py","jar": "./jar/spider.jar","searchable": 1,"changeable": 1,"quickSearch": 0,"filterable": 1,"playerType": 2},
 {"key": "猎手影视","name": "💯猎手｜影视","type": 3,"api": "./py/猎手影视.py","jar": "./jar/spider.jar","searchable": 1,"changeable": 1,"quickSearch": 0,"filterable": 1,"playerType": 2},
 {"key": "猎手影视","name": "💯甜圈｜短剧","type": 3,"api": "./py/甜圈短剧.py","jar": "./jar/spider.jar","searchable": 1,"changeable": 1,"quickSearch": 0,"filterable": 1,"playerType": 2},
+
+{"key": "csp_蝶众短剧","name": "🦋蝶众短剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"jar": "./jar/xyqxbpq.jar","ext":"./json/蝶众短剧.json"},
+{"key": "csp_九洲短剧","name": "🦋九洲短剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"jar": "./jar/xyqxbpq.jar","ext":"./json/九洲短剧.json"},
+{"key": "csp_五五短剧","name": "🦋五五短剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"jar": "./jar/xyqxbpq.jar","ext":"./json/五五短剧.json"},
+{"key": "csp_蓝岛影视","name": "🦋蓝岛影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"jar": "./jar/xyqxbpq.jar","ext":"./json/蓝岛影视.json"},
+{"key": "csp_樱花动漫","name": "🌇樱花动漫","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"jar": "./jar/xyqxbpq.jar","ext":"./json/樱花动漫.json"},
 
 {"key":"csp_XBPQ_厂长影院","name":"🎬厂长影院","type":3,"api":"csp_XBPQ","jar": "./jar/xbpq.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"./json/厂长影院.json"},
 {"key":"csp_XBPQ_老王影视","name":"🎬老王影视","type":3,"api":"csp_XBPQ","jar": "./jar/xbpq.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"./json/%E8%80%81%E7%8E%8B.json"},
@@ -94,7 +100,7 @@
 {"key": "csp_XBPQ_短剧巴士","name":"💚短剧巴士","type": 3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","jar":"./jar/xyqxbpq.jar","ext":"./json/短剧巴士.json"},
 {"key": "csp_XBPQ_4K影院","name":"💚4K影院","type": 3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","jar":"./jar/xyqxbpq.jar","ext":"./json/4K影院.json"},
 {"key": "csp_XBPQ_永乐视频","name":"💚永乐视频","type": 3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","jar":"./jar/xyqxbpq.jar","ext":"./json/永乐视频.json"},
-
+{"key": "csp_XBPQ_7点影视","name":"💚7点影视","type": 3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","jar":"./jar/xyqxbpq.jar","ext":"./json/7点影视.json"},
 
 {"key": "csp_XBPQ_PTT短剧","name":"♨️PTT短剧","type": 3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","jar":"./jar/xyqxbpq.jar","ext":"./json/PTT短剧.json"},
 {"key": "csp_XBPQ_天龙影院","name":"♨️天龙影院","type": 3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","jar":"./jar/xyqxbpq.jar","ext":"./json/天龙短剧.json"},
