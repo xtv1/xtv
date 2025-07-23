@@ -65,34 +65,12 @@
 { "key": "午夜电影院", "name": "♨️午夜电影", "type": 3, "api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"jar":"./jar/xbpq.jar","ext":"./json/午夜电影.json" },
 {"key":"小红影视","name":"♨️小红影视","type":3,"api":"csp_XBPQ","jar": "./jar/xyqxbpq.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","搜索url":"/search/{wd}-------------/","主页url":"https://xiaohys.com/","分类数组": "<li&&</li>","分类标题": "li>&&</a>"}},
 {"key":"XBPQ_红果短剧","name":"♨️红果短剧","type":3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","jar":"./jar/xyqxbpq.jar","ext":"./json/红果短剧.json"},
-    {
-      "key": "drpy_js_奇珍异兽",
-      "name": "🍥奇珍异兽[js]",
-      "type": 3,
-      "api": "https://gh-proxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/奇珍异兽.js"
-    },
-    {
-      "key": "drpy_js_优酷",
-      "name": "🍥优酷[js]",
-      "type": 3,
-      "api": "https://gh-proxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/优酷.js"
-    },
-    {
-      "key": "drpy_js_腾云驾雾",
-      "name": "🍥腾云驾雾[js]",
-      "type": 3,
-      "api": "https://gh-proxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/腾云驾雾.js"
-    },
-    {
-      "key": "drpy_js_百忙无果",
-      "name": "🍥百忙无果[js]",
-      "type": 3,
-      "api": "https://gh-proxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/百忙无果.js"
-    },
+{"key":"XBPQ_顺短剧","name":"♨️顺短剧","type":3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","jar":"./jar/xbpq.jar","ext":"./json/顺短剧.json"},
+
+    {"key": "drpy_js_奇珍异兽","name": "🍥奇珍异兽[js]","type": 3,"api": "./drpy_libs/drpy2.min.js","ext": "./js/奇珍异兽.js"},
+    {"key": "drpy_js_优酷","name": "🍥优酷[js]","type": 3,"api": "./drpy_libs/drpy2.min.js","ext": "./js/优酷.js"},
+    {"key": "drpy_js_腾云驾雾","name": "🍥腾云驾雾[js]","type": 3,"api": "./drpy_libs/drpy2.min.js","ext": "./js/腾云驾雾.js"},
+    {"key": "drpy_js_百忙无果","name": "🍥百忙无果[js]","type": 3,"api": "./drpy_libs/drpy2.min.js","ext": "./js/百忙无果.js"},
 {"key": "csp_XYQHiker_瓜子影院","name":"🌸瓜子影院(XYQH)","type":3,"api":"csp_XYQHiker", "jar": "./jar/custom_spider.jar;md5;28c09f10019f5b9f0cf9094e67f051f3","searchable":1,"quickSearch":0,"filterable":1,"ext":"./XYQHiker/瓜子影视.json"},
 {"key": "csp_XYQHiker_动漫巴士","name":"🚌动漫巴士(XYQH)","type":3,"api":"csp_XYQHiker","jar": "./jar/custom_spider.jar","searchable":1,"quickSearch":0,"filterable":1,"ext":"./XYQHiker/动漫巴士.json"},
 {"key": "csp_XYQHiker_风车动漫","name":"🌪风车动漫(XYQH)","type":3,"api":"csp_XYQHiker","jar": "./jar/custom_spider.jar","searchable":1,"quickSearch":0,"filterable":1,"ext":"./XYQHiker/风车动漫.json"},

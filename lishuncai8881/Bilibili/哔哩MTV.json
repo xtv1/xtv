@@ -1,6 +1,7 @@
 {
   "classes": [
     {"type_name": "MV","type_id": "MV"},
+    {"type_name": "2025年热榜","type_id": "2025年热门MV"},
     {"type_name": "抖音音乐","type_id": "抖音音乐MV"},
     {"type_name": "快手音乐","type_id": "快手音乐MV"},
     {"type_name": "酷狗音乐","type_id": "酷狗音乐MV"},
@@ -14,7 +15,6 @@
     {"type_name": "时光音乐会","type_id": "时光音乐会MV"},
     {"type_name": "好声音","type_id": "中国好声音MV"},
     {"type_name": "粤语","type_id": "粤语MV"},
-    {"type_name": "2023年热榜","type_id": "2023年热门MV"},
     {"type_name": "KTV热门","type_id": "KTV热门MV"},
     {"type_name": "滚石经典","type_id": "滚石MV"},
     {"type_name": "经典老歌","type_id": "经典老歌"},
@@ -675,11 +675,11 @@
           {"n": "10分钟以下","v": "1"}
        ]}
        ],
-    "2023年热门MV": [
+    "2025年热门MV": [
       {"key": "tid","name": "分类","value": [
           {"n": "全部","v": "歌曲"},
-          {"n": "男歌手","v": "男歌手2023年热门MV"},
-          {"n": "女歌手","v": "女歌手2023年热门MV"}
+          {"n": "男歌手","v": "男歌手2025年热门MV"},
+          {"n": "女歌手","v": "女歌手2025年热门MV"}
         ]},
     
       {
