@@ -1,4 +1,0 @@
-{"播放数组":"play&&</div>","播放线路":"<div id=\"info-r\">&&</div>","请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","搜索url":"/search/?wd={wd}",       
-        "分类url": "https://www.qiyoutv.net/view/{cateId}?catid=0&type={class}&area={area}&year={year}&page={catePg}",
-        "分类": "电影$1#连续剧$2#综艺$4#动漫$3"
-      }

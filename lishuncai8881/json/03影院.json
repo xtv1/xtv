@@ -1,11 +1,3 @@
 
-{"主页url":"https://www.03yy.co/",
-                "副标题": "极速蓝光",
-                "影片地区": "",
-                "简介": "+<p>&&</p>",
-                "线路数组": "onclick=&&</li>",
-                "线路标题": "极速蓝光",
-                "主页url": "https://www.03yy.live/",
-                "搜索url":"https://www.03yy.live/search.php?searchword={wd}",
-                "分类url": "https://www.03yy.live/{cateId}-{catePg}.html",
-                "分类": "🎬最近更新$https://www.03yy.co/new100.html#🎬短剧$type/index48#🎬豆瓣电影Top250$topiclist/1#🎬奥斯卡最佳影片$topiclist/17#🎬网飞专场$topiclist/24#🎬热映电影$topiclist/25#🎬96奥斯卡奖$https://www.03yy.co/topiclist/23.html#电影$https://www.03yy.live/movies.html#电视剧$https://www.03yy.live/tv.html#综艺$https://www.03yy.live/zongyi.html#动漫$https://www.03yy.live/dongman.html#🎞动作片$type/index5#🎞喜剧片$type/index10#🎞爱情片$type/index6#🎞科幻片$type/index7#🎞恐怖片$type/index8#🎞战争片$type/index9#🎞剧情片$type/index12#🎞动画片$type/index25#🎞大陆剧$type/index13#🎞欧美剧$type/index27#🎞韩国剧$type/index26#🎞香港剧$type/index14#🎞台湾剧$type/index46#🎞日本剧$type/index16#🎞泰国剧$type/index47#🎞海外剧$type/index28#🎥大陆动漫$type/index33#🎥日韩动漫$type/index34#🎥欧美动漫$type/index35#🎥少儿动画$type/index64#🎥大陆综艺$type/index29#🎥港台综艺$type/index30#🎥日韩综艺$type/index31#🎥欧美综艺$type/index32#🎥经典韩剧（国语）$topiclist/19#🎥经典港剧（粤语）$topiclist/18#🎥经典美剧（英语）$topiclist/21"}
+
+{"副标题": "极速蓝光", "影片地区": "", "简介": "+<p>&&</p>", "线路数组": "onclick=&&</li>", "线路标题": "极速蓝光", "主页url": "https://www.03yy.live/", "搜索url":"https://www.03yy.live/search.php?searchword={wd}", "分类url": "https://www.03yy.live/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}", "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$48#豆瓣电影Top250$https://www.03yy.live/topiclist/1.html#网飞专场$https://www.03yy.live/topiclist/24.html","类型":"动作片$5#喜剧片$10#爱情片$6#科幻片$7#恐怖片$8#战争片$9#剧情片$12#动画片$25||大陆剧$13#欧美剧$27#韩国剧$26#香港剧$14#台湾剧$46#日本剧$16#泰国剧$47#海外剧$28||大陆动漫$33#日韩动漫$34#欧美动漫$35#少儿动画$64#||大陆综艺$29#港台综艺$30#日韩综艺$31#欧美综艺$32||空||空||空||空||空||空||空"}
