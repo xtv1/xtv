@@ -71,7 +71,7 @@
 {"key": "老船长","name":"🌸老船长🌸","type": 3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","ext":"./json/老船长.json"},
 {"key": "csp_XBPQ_短剧巴士","name":"💚短剧巴士","type": 3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","ext":"./json/短剧巴士.json"},
 {"key": "csp_XBPQ_4K影院","name":"💚4K影院","type": 3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","ext":"./json/4K影院.json"},
-{"key": "csp_XBPQ_永乐视频","name":"💚永乐视频","type": 3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","ext":"./json/永乐视频.json"},
+{"key": "csp_XBPQ_奇优影院","name":"💚奇优影院","type": 3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","ext":"./json/奇优影院.json"},
 {"key": "csp_XBPQ_7点影视","name":"💚7点影视","type": 3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","ext":"./json/7点影视.json"},
 
 {"key": "csp_XBPQ_永乐视频","name":"🍰永乐视频","type": 3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","ext":"./json/永乐视频.json"},
