@@ -40,7 +40,7 @@
 {"key": "csp_XYQHiker_电影盒子","name":"👾电影盒子","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":0,"filterable":1,"ext":"./Hk/电影盒子.json","jar":"./jar/Hk.jar"},
 {"key": "csp_555电影","name": "👾555电影","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"./json/555影视.json"},
 {"key":"机器人","name":"👾机器人","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":0,"changeable":1,"ext":"https://v.ikanbot.com","jar":"./jar/spider.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
-{"key":"火车太堵","name":"👾火车太堵","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"./json/火车太堵.json"},
+
 { "key": "奇异", "name": "💟奇异影视", "type": 0, "api": "https://iqiyizyapi.com/api.php/provide/vod/at/xml/", "searchable": 1, "changeable": 1, "playurl": "json:https://www.iqiyizyjx.com/?url=" },
 { "key": "贝贝影院", "name": "💟小呗影视", "type": 3,"searchable":1,"quickSearch":0,"filterable":1, "api": "csp_XBPQ", "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar", "ext":"./json/贝贝影视.json"},
 { "key": "o站影视", "name": "💟动漫O站", "type": 3, "api": "csp_XBPQ","searchable":1,"quickSearch":0,"filterable":1, "ext":"./json/动漫O站.json"},

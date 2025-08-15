@@ -1,10 +1,12 @@
 
 {
 "urls": [
-{"url": "clan://localhost/TVBox/顺财.txt","name":"🌐顺财本地🌐"},
+{"url": "https://gitee.com/lsc800416/tvbox/raw/master/1.json","name":"♻️顺gitee🌐"},
 {"url": "https://gh-proxy.net/https://raw.githubusercontent.com/lishuncai8881/TVBox/master/顺财.json","name":"💥顺财💥"},
 {"url": "https://ghfast.top/https://raw.githubusercontent.com/qinvision/hpyys/refs/heads/main/hpyys.json","name":"🌐好朋友8🌐"},	
 {"url":"https://gh-proxy.net/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/api.json","name":"💥潇洒💥"},
+{"url":"https://gitee.com/zxmoyun/shared-warehouse/raw/master/suiyuan.json","name":"💥看海💥"},
+{"url": "clan://localhost/TVBox/顺财.txt","name":"🌐顺财本地🌐"},
 {"url":"https://git.acwing.com/lw0704/66/-/raw/master/jjzx.json","name":"💥健健💥"},
 {"name":"💥南风💥","url":"https://gh-proxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"},
 {"url": "https://raw.kkgithub.com/lishuncai8881/c/main/2025.json","name":"💕顺财github💕"},
@@ -21,7 +23,6 @@
 {"url":"https://gh-proxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json","name":"🌐香雅情🌐"},
 {"url":"https://raw.liucn.cc/box/m.json","name":"🌐老刘备🌐"},
 {"url": "https://git.acwing.com/tv1/tv2/-/raw/main/CS.json","name": "💥天翔💥"},
-{"url":"http://meowtv.top/tv","name":"💥太阳"},
 {"url":"https://gh-proxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json","name":"🌐道长🌐"},
 {"url":"https://gh.llkk.cc/https://raw.githubusercontent.com/xiaolinshao/linshao/main/1.json","name":"🌐林少🌐"},
 {"url":"http://www.now61.com/f/y5bKue/QJK.bmp","name":"君赢"},
