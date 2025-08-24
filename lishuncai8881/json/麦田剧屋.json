@@ -1,0 +1,6 @@
+{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8",  
+          "搜索url":"https://www.fuh.cc/search.php?searchword={wd}",
+          "简介":"<div class=\"fed-drop-boxs fed-drop-tops fed-matp-v\">&&</div>",
+           "分类url": "https://www.fuh.cc/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area=&year={year}&letter={letter}&yuyan={lang}&state=&money=&ver=&jq=&area={area}",
+       "播放数组":"<ul class=\"myui-content__list scrollbar sort-list clearfix\"&&</ul>",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4","类型":"动作片$5#爱情片$6#科幻片$7#恐怖片$8#战争片$9#喜剧片$10#剧情片$12||国产剧$13#港台剧$14#欧美剧$15#韩剧$16#日剧$27#泰剧$29#海外剧$30#爽文短剧$39||大陆综艺$26#港台综艺$28#欧美综艺$31#日韩综艺$32||国产动漫$34#日韩动漫$35#欧美动漫$36#动漫电影$37#海外动漫$38"}
