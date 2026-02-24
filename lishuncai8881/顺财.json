@@ -12,13 +12,11 @@
   "sites": [
 {"key": "js_豆瓣","name": "💥顺子推荐💥","type": 3,"api":"./drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./drpy_js/drpy.js"},
 {"key":"瓜子","name":"💥瓜子💥","type":3,"jar":"https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/xiaosa/spider.jar","api":"csp_Gz360", "searchable": 1, "quickSearch": 0, "filterable": 1 },
-{"name":"🐱喵喵短剧","key":"喵喵短剧","type":3,"api":"csp_QmdjAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/master/custom_spider.jar"},
-{"name":"⭐星星短剧","key":"星星短剧","type":3,"api":"csp_XydjAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/master/custom_spider.jar"},
+{"name":"🐱喵喵短剧","key":"喵喵短剧","type":3,"api":"csp_QmdjAmns","searchable":1,"filterable":1,"quickSearch":0,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/master/custom_spider.jar"},
+{"name":"⭐星星短剧","key":"星星短剧","type":3,"api":"csp_XydjAmns","searchable":1,"filterable":1,"quickSearch":0,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/master/custom_spider.jar"},
 {"key":"聚合短剧","name":"🈴聚合短剧","type":3,"api":"csp_JuheShortDrama","jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/master/Yoursmile.jar","searchable":1,"filterable":0,"switchable":0,"ext":{"host":{"百度":"https://api.jkyai.top","甜圈":"https://mov.cenguigui.cn","锦鲤":"https://api.jinlidj.com","番茄":"https://reading.snssdk.com","番茄2":"https://fqgo.52dns.cc","星芽":"https://app.whjzjx.cn","星芽登录":"https://u.shytkjgs.com","西饭":"https://xifan-api-cn.youlishipin.com","围观":"https://api.drama.9ddm.com","碎片":"https://free-api.bighotwind.cc","碎片图片":"https://speed.hiknz.com"}}},
 {"key":"甜圈短剧","name":"💟甜圈短剧","type":3,"jar": "./jar/ok.jpg","api":"csp_TianQuanGuard","searchable":1,"quickSearch":0,"filterable":1,"timeout":10},
-
-   {"key":"锦鲤短剧","name":"💟锦鲤短剧","type":3,"jar": "./jar/ok.jpg","api":"csp_JinliGuard","searchable":1,"quickSearch":0,"filterable":1,"timeout":10},
-   {"key":"盒马短剧","name":"💟盒马短剧","type":3,"jar": "./jar/ok.jpg","api":"csp_HeMaGuard","searchable":1,"quickSearch":0,"filterable":1,"timeout":10},
+   {"key":"盒马短剧","name":"🦓盒马┃短剧","type":3,"api":"csp_AweSomeGuard", "jar": "./jar/河马.jpg","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"ext": {"sp": "HeMa"}, "timeout":10},
 {"key": "js_星芽短剧","name": "🎦星芽短剧","type": 3,"api":"./drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./drpy_js/星芽短剧.js"},
 {"key": "猎手影视","name": "💯猎手｜影视","type": 3,"api": "./py/猎手影视.py","jar": "./jar/spider.jar","searchable": 1,"changeable": 1,"quickSearch": 0,"filterable": 1,"playerType": 2},
     {"key":"csp_sp_龙门短剧","name":"🤖爬虫┃龙门短剧","type":1,"api":"https://api.wwzy.tv/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧"]},
@@ -475,7 +473,7 @@
 {"key":"js_B站精简","name": "💕哔哩精简💕","type": 3,"api": "./lib/drpy2.min.js", "searchable": 1,"filterable": 1,"changeable": 0,"ext": "./lib/B站精简.js"},
 
 {"key":"hipy_js_种子音乐[听]","name":"🎧种子音乐[听](drpy_t3)","type":3,"api":"./drpy_libs/drpy2.min.js","searchable":1,"quickSearch":0,"filterable":1,"order_num": 0,"ext":"https://bitbucket.org/xduo/libs/raw/master/drpy_js/种子音乐[听].js" },
-{"key": "csp_Live2Vod_1","name": "┃🖥网络电视┃","type": 3,"api": "csp_Live2Vod","jar": "./jar/Live2Vod.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"🌈顺财$https://gh-proxy.net/https://raw.githubusercontent.com/lishuncai8881/TVBox/master/lives/直播.txt#🎆暮雨$https://4key.cn/FP#👑范明明$https://gh.llkk.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u#👑猫TV$http://rihou.cc:555/gggg.nzk#👑杂2$https://fel.forxhr.top:2022/down.php/9130cbef574b3d09b7c45feec3caca03.txt&&&http://3650000.xyz/api/360.php?cid=6"}
+{"key": "csp_Live2Vod_1","name": "┃🖥网络电视┃","type": 3,"api": "csp_Live2Vod","jar": "./jar/Live2Vod.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"🌈顺财$https://gh-proxy.net/https://raw.githubusercontent.com/lishuncai8881/TVBox/master/lives/直播.txt#🎆暮雨$https://4key.cn/FP#👑范明明$https://gh.llkk.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u#👑猫TV$http://rihou.cc:555/gggg.nzk#👑央视卫视$https://l.gmbbk.com/upload/13571357.txt#👑杂2$https://fel.forxhr.top:2022/down.php/9130cbef574b3d09b7c45feec3caca03.txt&&&http://3650000.xyz/api/360.php?cid=6"}
 
 
 
