@@ -1,15 +1,14 @@
 {
 "urls":[
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/alantang1977/X/main/X.json","name":"alantang1977_X"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/alantang1977/X/main/aTV.json","name":"alantang1977_aTV"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/alantang1977/X/main/ok.json","name":"alantang1977_ok"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/alantang1977/X/main/jsm.json","name":"alantang1977_jsm"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/alantang1977/X/main/config.json","name":"alantang1977_config"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/alantang1977/X/main/py.json","name":"alantang1977_py"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/alantang1977/X/main/vod.json","name":"alantang1977_vod"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/alantang1977/X/main/采集.json","name":"alantang1977_采集"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/alantang1977/pg/main/jsm.json","name":"alantang1977_jsm"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/alantang1977/pg/main/py.json","name":"alantang1977_py"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/alantang1977/TVBoxOSC/main/api.json","name":"alantang1977_api"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/alantang1977/tvbox-18/main/api.txt","name":"alantang1977_api"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/alantang1977/FGBLH/main/独角兽影视无18加","name":"alantang1977_api"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/alantang1977/FGBLH/main/海马影视无18加","name":"alantang1977_海马影视"},
 
 
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/mcp2016/TVBox/main/pj.json","name":"mcp2016_鹏九"},
@@ -34,6 +33,12 @@
 {"url":"http://m6z.cn/6xm0wE","name":"极狐线路"},
 {"url":"http://u3v.cn/5ssoRL","name":"极狐线路"},
 
+{"url":"https://16409.kstore.vip/tv/ngzmods.json","name":"北方学习天地线路"},
+{"url":"https://16409.kstore.vip/tv/beiyong.json","name":"北方学习天地线路"},
+
+{"url":"http://cnmb.cc.cd/jk/xnf.json","name":"小脑斧免费接口"},
+{"url":"https://6492.kstore.space/xnf/xnf.json","name":"小脑斧备用接口"},
+
 
 
 //https://www.kdocs.cn/l/csxAeSxqNok4
@@ -55,6 +60,16 @@
 
 {"url":"https://gitee.com/lsc800416/tvbox/raw/master/顺.json","name":"顺财"},
  
+ 
+
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/niuber/niuber/main/tvbox/api.json","name":"niuber_api"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/sck03407/TVbox/main/TV4.json","name":"sck03407_TV4"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/guru2016/tvbox-pro/main/my_tvbox.json","name":"guru2016"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/ssmq-5201314/tvbox/main/ssmq5201314.json","name":"ssmq-5201314"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/gameboy-ai/tvbox/main/tvbox.json","name":"gameboy-ai"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/dwz00/tvbox0/main/jk.json","name":"dwz00-jk"},
+
+
 
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/leexuben/BINGO-TV/main/202512.json","name":"leexuben_202512"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/leexuben/BINGO-TV/main/xcz.json","name":"leexuben_xcz"},
@@ -134,23 +149,27 @@
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/euvbe/TVBox/main/tvbox.json","name":"euvbe_tvbox"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/cluntop/TVBox/main/box.json","name":"cluntop_box"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/cluntop/TVBox/main/jsm.json","name":"cluntop_jsm"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/wolf2021/tvbox/main/采集网.json","name":"wolf2021_采集网"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/wolf2021/tvbox/main/戏曲音乐/api.json","name":"wolf2021_戏曲音乐"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/wolf2021/tvbox/main/爱优腾/爱优腾.json","name":"wolf2021_爱优腾"},
+
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/lha6zb/PizazzGY/main/ys.json","name":"lha6zb_老孩影视"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/leiyou-li/tvbox2/main/buzm/bzm.json","name":"leiyou-li_bzm"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/Boxu98/tvbox/main/BX.json","name":"Boxu98-li_BX"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/Boxu98/tvbox/main/bx2.json","name":"Boxu98-li_bx2"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/Boxu98/tvbox/main/BX.json","name":"Boxu98_BX"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/Boxu98/tvbox/main/bx2.json","name":"Boxu98_bx2"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/AIsenfu/tvbox-/main/index.html","name":"AIsenfu"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/Adolphsa/testTvSource/main/饭太硬/api.json","name":"Adolphsa_饭太硬"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/ryu989/tvbox/main/1.json","name":"ryu989_1"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/ryu989/tvbox/main/cj.json","name":"ryu989_cj"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/ryu989/tvbox/main/jsm.json","name":"ryu989_jsm"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/leevi0709/duoapi/main/config.json","name":"leevi0709_config"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/LIUJEI/TB/master/Svip.json","name":"LIUJEI_Svip"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/LIUJEI/TB/master/影视.json","name":"LIUJEI_影视"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/LIUJEI/TB/master/时光机.json","name":"LIUJEI_时光机"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/LIUJEI/TB/master/魔盒.json","name":"LIUJEI_魔盒"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/LIUJEI/TS/main/影视.json","name":"LIUJEI_影视"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/LIUJEI/TS/main/魔盒.json","name":"LIUJEI_魔盒"},
+
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/chenxi-v/boxtv/main/短剧.json","name":"chenxi-v_短剧"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/bonnie366/CyberTV/main/config.json","name":"bonnie366_config"},
-
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/xoman9/tvbox/main/01.json","name":"xoman9_01"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/xoman9/tvbox/main/0530備分.json","name":"xoman9_0530備分"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/xoman9/tvbox/main/0709備分.json","name":"xoman9_0709備分"},
@@ -158,6 +177,7 @@
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/xoman9/tvbox/main/VOX.json","name":"xoman9_VOX"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/xoman9/tvbox/main/new.json","name":"xoman9_new"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/xoman9/tvbox/main/no-sex.json","name":"xoman9_no-sex"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/xoman9/tvbox/main/ok.json","name":"xoman9_ok"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/xoman9/tvbox/main/old.json","name":"xoman9_old"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/xoman9/tvbox/main/recha-live.json","name":"xoman9_recha-live"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/xoman9/tvbox/main/recha-movie.json","name":"xoman9_recha-movie"},
@@ -167,11 +187,84 @@
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/xoman9/tvbox/main/失效源.json","name":"xoman9_失效源"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/xoman9/tvbox/main/测试.json","name":"xoman9_测试"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/NASSD124/tvbox/main/tvbox_4k_sources.json","name":"NASSD124_4k"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/NASSD124/tvbox/main/tvbox_github.json","name":"NASSD124_4k_github"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/NASSD124/tvbox/main/tvbox_source.json","name":"NASSD124_tvbox"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/NASSD124/tvbox/main/tvbox_source2.json","name":"NASSD124_tvbox2"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/NASSD124/tvbox/main/tvbox_source3.json","name":"NASSD124_tvbox3"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/NASSD124/tvbox/main/tvbox_source4.json","name":"NASSD124_tvbox4"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/dxyc0922/Tvbox4.x_api/main/接口.json","name":"dxyc0922_接口"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/yvor-liu/tvbox/main/iy_merged.json","name":"yvor-liu_天神IY"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/yvor-liu/tvbox/main/天神IY.txt","name":"yvor-liu_天神IY"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/JackiesChans/tvziyong/main/免登4k+裤佬.json","name":"JackiesChans_裤佬"},
+
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/keluo8824-cell/tvbox/main/4k.json","name":"keluo8824-cell_4K接口"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/keluo8824-cell/tvbox/main/7xin.json","name":"keluo8824-cell_七星影仓"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/keluo8824-cell/tvbox/main/99.json","name":"keluo8824-cell_99影院"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/keluo8824-cell/tvbox/main/cai.json","name":"keluo8824-cell_菜妮丝接口"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/keluo8824-cell/tvbox/main/fan.json","name":"keluo8824-cell_饭太硬接口"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/keluo8824-cell/tvbox/main/feng.json","name":"keluo8824-cell_feng"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/keluo8824-cell/tvbox/main/mao.json","name":"keluo8824-cell_猫影视接口"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/keluo8824-cell/tvbox/main/mg.json","name":"keluo8824-cell_mg"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/keluo8824-cell/tvbox/main/moyu.json","name":"keluo8824-cell_摸鱼线路"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/keluo8824-cell/tvbox/main/oge.json","name":"keluo8824-cell_讴歌线路"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/keluo8824-cell/tvbox/main/ok.json","name":"keluo8824-cell_OK接口"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/keluo8824-cell/tvbox/main/qiao.json","name":"keluo8824-cell_巧记接口"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/keluo8824-cell/tvbox/main/quan.json","name":"keluo8824-cell_全能线路"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/keluo8824-cell/tvbox/main/tw.json","name":"keluo8824-cell_天微影线"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/keluo8824-cell/tvbox/main/xc.json","name":"keluo8824-cell_xc"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/keluo8824-cell/tvbox/main/xin.json","name":"keluo8824-cell_公益接口"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/keluo8824-cell/tvbox/main/yang.json","name":"keluo8824-cell_机缘接口"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/keluo8824-cell/tvbox/main/yw.json","name":"keluo8824-cell_勇往影视接口"},
+
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/summerqwer999/TVBOX3-jingpin/main/index.json","name":"summerqwer999_index"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/hubumulity/tvbox/main/fty.json","name":"hubumulity_fty"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/MCX66/TVBOX/main/ys.json","name":"MCX66_ys"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/main/api.json","name":"fqu2003_api"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/fqu2003/tvbox/main/dj.json","name":"fqu2003_短剧"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/leescolbert84-debug/tvbox/main/tvbox.json","name":"leescolbert84_tvbox"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/leescolbert84-debug/tvbox/main/tvbox2.json","name":"leescolbert84_tvbox2"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/kogwx/TVBox/main/tvbox.json","name":"kogwx_tvbox"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/xiaohaozifeifeifei/bd/main/api.json","name":"xiaohaozifeifeifei_api"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/VolcanoPig/tvbox/main/tvBox.json","name":"VolcanoPig_tvBox"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/scorpion2u/tvbox/main/tvbox.json","name":"scorpion2u_tvbox"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/scorpion2u/tvbox-config/main/oktv.json","name":"scorpion2u_oktv"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/scorpion2u/tvbox-config/main/tvbox.json","name":"scorpion2u_tvbox"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/scorpion2u/tvbox-config/main/ysc.json","name":"scorpion2u_ysc"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/krishna-one/my_TVbox/main/tv.json","name":"krishna-one_tv"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/lubin776/tvbox/main/x4.txt","name":"lubin776_x4"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/lubin776/tvbox/main/x5.json","name":"lubin776_x5"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/lubin776/tvbox/main/duanju/api.json","name":"lubin776_短剧"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/lubin776/tvbox/main/qqqwww/qqqwww0224.json","name":"lubin776_qqqwww"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/lubin776/tvbox/main/qqqwww/qqqwww0312.json","name":"lubin776_qqqwww"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/lubin776/tvbox/main/潇洒2026/api.json","name":"lubin776_潇洒"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/lubin776/tvbox/main/jmx2.json","name":"lubin776_jmx2"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/lubin776/tvbox/main/jmx2.txt","name":"lubin776_jmx4"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/lubin776/tvbox/main/jmx4.json","name":"lubin776_jmx4"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/lubin776/tvbox/main/qqqwww03for12gitee.json","name":"lubin776_qqqwww"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/gzp007/TVBox/main/tvbox1.json","name":"gzp007_tvbox1"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/mengzide1-ai/TVBoxOSC/main/tvbox/api.json","name":"mengzide1-ai_api"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/1374913826/tvbox-api-config/main/2026.3.7","name":"1374913826_2026.3.7"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/anony14/TVbox/main/in.json","name":"anony14_in"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/yihaoaibot/tvbox/main/yihao_final.json","name":"yihaoaibot_yihao"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/yang543611595/-tvbox-/main/config.json","name":"yang543611595_config"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/bb-1016/tvbox/main/bb.json","name":"bb-1016_bb"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/bengangwang2025/my-tvbox/main/reference_config.json","name":"bengangwang2025_reference"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/bengangwang2025/my-tvbox/main/tvbox_config.json","name":"bengangwang2025_tvbox"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/YZYYZZY/TVBoxX/main/tvbox.json","name":"YZYYZZY_tvbox"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/hnlyzxf/tvbox/main/tvbox.json","name":"hnlyzxf_tvbox"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/hnlyzxf/tvbox/main/tvbox1.json","name":"hnlyzxf_tvbox1"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/geek994/tvbox/geekbox/geekbox","name":"geek994_geekbox"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/geek994/tvbox/geekbox/tvbox.json","name":"geek994_tvbox"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/summerqwer999/TVBOX2-pachong/main/my_vod.json","name":"summerqwer999_my_vod"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/teruhui/mie/main/jsm.json","name":"teruhui_jsm"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/Xiaoyige691/dy/main/api.json","name":"Xiaoyige691_api"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/Xiaoyige691/dy/main/config.json","name":"Xiaoyige691_config"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/Xiaoyige691/dy/main/gx.json","name":"Xiaoyige691_gx"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/xuelong876/mybox_PG/main/pg.json","name":"xuelong876_pg"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/xuelong876/mybox_PG/main/xiaosa.json","name":"xuelong876_xiaosa"},
+
+
+
 
 
 
@@ -211,11 +304,10 @@
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/franksun1211/TVBOX/main/07044.json","name":"franksun1211_07044"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/franksun1211/TVBOX/main/0706.json","name":"franksun1211_0706"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/franksun1211/TVBOX/main/2K24.json","name":"franksun1211_2K24"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/franksun1211/TVBOX/main/350_195645_ali.json","name":"franksun1211_ali"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/franksun1211/TVBOX/main/4k.json","name":"franksun1211_4k"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/franksun1211/TVBOX/main/CKS2000.json","name":"franksun1211_CKS2000"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/franksun1211/TVBOX/main/cj.json","name":"franksun1211_cj"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/franksun1211/TVBOX/main/WXER.json","name":"franksun1211_WXER"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/franksun1211/TVBOX/main/裤佬_tvboxlvse.json","name":"franksun1211_裤佬"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/franksun1211/TXT/main/LS-main/1.json","name":"franksun1211_1"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/Reflyer823/tvbox-config/master/main.json","name":"Reflyer823_main"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/pcrock88/pcrock88.github.io/main/zb/cs.txt","name":"pcrock88_cs"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/pcrock88/pcrock88.github.io/main/zb/tvbox.json","name":"pcrock88_tvbox"},
@@ -703,13 +795,10 @@
 
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/Kumianren/MiPG/main/Apg.json","name":"Kumianren_Apg"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/Kumianren/MiPG/main/Azx.json","name":"Kumianren_Azx"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/Kumianren/MiPG/main/FongMi.json","name":"Kumianren_FongMi"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/Kumianren/MiPG/main/Mio.json","name":"Kumianren_Mio"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/Kumianren/MiPG/main/fan.json","name":"Kumianren_fan"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/Kumianren/MiPG/main/jsm.json","name":"Kumianren_jsm"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/Kumianren/MiPG/main/ok.json","name":"Kumianren_ok"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/Kumianren/MiPG/main/wex.json","name":"Kumianren_wex"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/Kumianren/MiPG/main/zx.json","name":"Kumianren_zx"},
+
 
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/tvbox/A/aries.json","name":"yuanwangokk-1_aries"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/tvbox/OK/tv.json","name":"yuanwangokk-1_OK"},
@@ -730,12 +819,12 @@
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/simletimes/Linkfiles/main/NewTow.json","name":"simletimes_NewTow"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/gyjune/cc/main/ccls.json","name":"gyjune_ccls"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/inakaten/yg/main/gr.txt","name":"inakaten_gr"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/tjyu010/tvbox/main/0707.json","name":"tjyu010_0707"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/tjyu010/tvbox/main/0114.json","name":"tjyu010_0114"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/tjyu010/tvbox/main/0821.json","name":"tjyu010_0821"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/tjyu010/tvbox/main/0825.json","name":"tjyu010_0825"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/tjyu010/tvbox/main/0826.json","name":"tjyu010_0826"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/tjyu010/tvbox/main/0827.json","name":"tjyu010_0827"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/tjyu010/tvbox/main/1210.json","name":"tjyu010_1210"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/tjyu010/tvbox/main/1206.json","name":"tjyu010_1206"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/tjyu010/tvbox/main/yinshi.json","name":"tjyu010_yinshi"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/ppt005/tvbox/main/box","name":"ppt005_box"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/ppt005/tvbox/main/tvbox.txt","name":"ppt005_tvbox"},
@@ -755,9 +844,7 @@
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/Grovin720/TV/master/R.json","name":"Grovin720_R"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/zongru666/myIPTV/main/yingshi.json","name":"zongru666_yingshi"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/sherman12311/tvbox/main/ok/ok.json","name":"sherman12311_ok"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/Inliang/tvbox/main/fty.json","name":"Inliang_fty"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/Inliang/tvbox/main/zijian.json","name":"Inliang_zijian"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/Inliang/TVbox1/main/20241228.json","name":"Inliang_20241228"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/Inliang/TVbox1/main/feimao.json","name":"Inliang_feimao"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/zxwwp/TVBox/master/20221115.json","name":"zxwwp_20221115"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/zuimo888/tvbox/main/接口2.0.json","name":"奇迹云科技"},
@@ -857,7 +944,6 @@
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/BP3388/TVBOX/main/摸鱼22","name":"BP3388_摸鱼22"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/BP3388/TVBOX/main/摸鱼53","name":"BP3388_摸鱼53"},
 
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/zerowj/tvbox/main/AAO.json","name":"zerowj_AAO"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/zerowj/tvbox/main/new.json","name":"zerowj_new"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/zerowj/tvbox/main/tvbox.json","name":"zerowj_tvbox"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/SingerLan/json/master/0827.json","name":"SingerLan_0827"},
@@ -984,7 +1070,7 @@
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/dyjldq/shiyan/main/tv.json","name":"dyjldq_tv"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/drzorm/tvbox/main/0.json","name":"drzorm_0"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/drzorm/tvbox/main/1.json","name":"drzorm_1"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/lxd-520/TvBox123/main/11.txt","name":"lxd-520_1"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/lxd-520/TvBox123/main/1.txt","name":"lxd-520_1"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/lxd-520/TvBox123/main/zy.txt","name":"lxd-520_zy"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/vcloudc/tvbox/main/tw/api.json","name":"vcloudc_天微"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/vcloudc/tvbox/main/tw/api.json.bak","name":"vcloudc_天微"},
@@ -1035,13 +1121,12 @@
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/heroaku/TVboxo/main/Text/api..json","name":"heroaku_api"},
 
 
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/testboxapi/main/test1/api.json","name":"ls125781003_api"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/testboxapi/main/tvbox/api.json","name":"ls125781003_api"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/testdr2/main/custom.json","name":"ls125781003_custom"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/testdr2/main/custom_old.json","name":"ls125781003_custom"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/testdr2/main/index_old","name":"ls125781003_index"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/testdr2/main/t3.json","name":"ls125781003_t3"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/testdr2/main/tv.json","name":"ls125781003_tv"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/testboxapi/main/aowu/api.json","name":"ls125781003_aowu"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/testboxapi/main/huban/api.json","name":"ls125781003_小虎斑"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/testboxapi/main/newwex/api.json","name":"ls125781003_newwex"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/testboxapi/main/xiaosa/api.json","name":"ls125781003_潇洒"},
+
+
 
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/qqctg/main/OK/api.json","name":"ls125781003_OK"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/qqctg/main/南风/api.json","name":"ls125781003_南风"},
@@ -1121,6 +1206,7 @@
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/ne7359/tvurl/main/367.json","name":"ne7359_367"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/ne7359/tvurl/main/XYQ.json","name":"ne7359_XYQ"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/ne7359/tvurl/main/dianshi.json","name":"ne7359_dianshi"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/ne7359/tvurl/main/fty.json","name":"ne7359_fty"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/ne7359/tvurl/main/jsm.json","name":"ne7359_jsm"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/api.json","name":"ne7359_api"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/kyp126/TVBox/main/XC.json","name":"kyp126_XC"},
@@ -1152,6 +1238,7 @@
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/Link-Soul/TVBox/main/X3.json","name":"Link-Soul_X3"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/Link-Soul/TVBox/main/X4.json","name":"Link-Soul_X4"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/Link-Soul/TVBox/main/X5.json","name":"Link-Soul_X5"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/Link-Soul/TVBox/main/X6.json","name":"Link-Soul_X6"},
 
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/dxzhang456/mylist/main/jsm.json","name":"dxzhang456_jsm"},
 
@@ -1243,8 +1330,7 @@
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/simonlin661107/tvbox_qist/main/jsm.json","name":"simonlin661107_jsm"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/simonlin661107/tvbox_qist/main/lzi.json","name":"simonlin661107_lzi"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/simonlin661107/tvbox_qist/main/simon_mix.json","name":"simonlin661107_simon_mix"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/leevi0709/duoapi/main/config.json","name":"leevi0709_1"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/leevi0709/duoapi/main/config2.json","name":"leevi0709_2"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/leevi0709/duoapi/main/config.bin","name":"leevi0709_config"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/tdtree/my-tvbox-config/main/tvbox.json","name":"tdtree_tvbox"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/tdtree/my-tvbox-config/main/oktv.json","name":"tdtree_oktv"},
 
@@ -1285,24 +1371,25 @@
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/woshishiq1/hipy-drpy/main/Tomorrow/tvbox.json","name":"woshishiq1_tvbox"},
 
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/woshishiq1/hipy-drpy/main/cpu_iy/天神IY.json","name":"woshishiq1_天神IY"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/woshishiq1/hipy-drpy/main/cpu_iy/天神小屋.json","name":"woshishiq1_天神小屋"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/woshishiq1/hipy-drpy/main/cpu_iy/天神小屋.png","name":"woshishiq1_天神小屋"},
 
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/woshishiq1/hipy-drpy/main/dr/dr2.json","name":"woshishiq1_dr2"},
 
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/woshishiq1/hipy-drpy/main/ljlfct01/免扫","name":"woshishiq1_免扫"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/woshishiq1/hipy-drpy/main/ljlfct01/免非","name":"woshishiq1_免非"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/woshishiq1/hipy-drpy/main/ljlfct01/影视","name":"woshishiq1_影视"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/woshishiq1/hipy-drpy/main/ljlfct01/4K","name":"woshishiq1_4K"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/woshishiq1/hipy-drpy/main/ljlfct01/4k1","name":"woshishiq1_4k1"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/woshishiq1/hipy-drpy/main/ljlfct01/公瑾","name":"woshishiq1_公瑾"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/woshishiq1/hipy-drpy/main/ljlfct01/极影","name":"woshishiq1_极影"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/woshishiq1/hipy-drpy/main/ljlfct01/爱看影视","name":"woshishiq1_爱看影视"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/woshishiq1/hipy-drpy/main/ljlfct01/畅常","name":"woshishiq1_畅常"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/woshishiq1/hipy-drpy/main/ljlfct01/畅影","name":"woshishiq1_畅影"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/woshishiq1/hipy-drpy/main/ljlfct01/老三4k","name":"woshishiq1_老三4k"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/woshishiq1/hipy-drpy/main/ljlfct01/老三影视","name":"woshishiq1_老三影视"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/woshishiq1/hipy-drpy/main/ljlfct01/视界","name":"woshishiq1_视界"},
 
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/woshishiq1/hipy-drpy/main/tvbox/box.json","name":"woshishiq1_box"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/woshishiq1/hipy-drpy/main/tvbox/jsm.json","name":"woshishiq1_jsm"},
 
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/woshishiq1/hipy-drpy/main/wzxxcz/2025.json","name":"woshishiq1_2025"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/woshishiq1/hipy-drpy/main/wzxxcz/api.json","name":"woshishiq1_api"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/woshishiq1/hipy-drpy/main/wzxxcz/djry.json","name":"woshishiq1_djry"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/woshishiq1/hipy-drpy/main/wzxxcz/moyu.json","name":"woshishiq1_moyu"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/woshishiq1/hipy-drpy/main/wzxxcz/wzxxcz.json","name":"woshishiq1_wzxxcz"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/woshishiq1/hipy-drpy/main/wzxxcz/xczwzx.json","name":"woshishiq1_xczwzx"},
 
@@ -1316,6 +1403,7 @@
 
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/jizhujian/fish2018pg/master/jsm.json","name":"jizhujian_jsm"},
 
+
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/ediart/tvbox/main/4K/4K.json","name":"ediart_4K"},
 
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/ediart/tvbox/main/aowu/config.json","name":"ediart_短剧"},
@@ -1328,7 +1416,6 @@
 
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/ediart/tvbox/main/music.json","name":"ediart_music"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/ediart/tvbox/main/T4.json","name":"ediart_T4"},
-
 
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/ediart/tvbox/main/TVBoxOSC/tvbox/api.json","name":"ediart_api"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/ediart/tvbox/main/TVBoxOSC/tvbox/live.json","name":"ediart_live"},
@@ -1914,10 +2001,11 @@
 {"url":"https://www.lintech.work/标准杯/main.json","name":"时光机标准杯"},
 {"url":"http://74.120.175.78/JK/XYQTVBox/dj.json","name":"短剧 | 心动"},
 
-{"url":"https://qlkj.qzz.io/ql0116.json","name":"奇乐技术网-主"},
-{"url":"https://8383.kstore.space/ql0116.json","name":"奇乐技术网-高速"},
-{"url":"https://d.kstore.dev/download/8383/ql0116.json","name":"奇乐技术网-快速"},
-{"url":"https://www.奇乐.xyz/ql0116.json","name":"奇乐技术网-备用接口"},
+{"url":"https://qlkj.us.ci/ql27.json","name":"奇乐技术网-主"},
+{"url":"https://qlkj.qzz.io/ql27.json","name":"奇乐技术网-主"},
+{"url":"https://8383.kstore.space/ql27.json","name":"奇乐技术网-高速"},
+{"url":"https://d.kstore.dev/download/8383/ql27.json","name":"奇乐技术网-快速"},
+
 
 {"url":"https://like.肥猫.com/PandaQ","name":"青柠🍋肥猫备用"},
 {"url":"http://b.mtw.so/5VundT","name":"花生疾风"},
@@ -2402,30 +2490,28 @@
 //https://ghfast.top/https://raw.githubusercontent.com/ls125781003/boxlines/main/dc1
 //https://ghfast.top/https://raw.githubusercontent.com/ls125781003/boxlines/main/dc2
 //https://ghfast.top/https://raw.githubusercontent.com/ls125781003/boxlines/main/tgdc.json
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/饭太硬/api.json","name":"饭太硬"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/小米/api.json","name":"小米"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/肥猫/api.json","name":"肥猫"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/xyqonlinerule/main/XYQTVBox.json","name":"香雅情[原]"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/南风/api.json","name":"南风"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/PG/api.json","name":"PG"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/摸鱼儿/api.json","name":"摸鱼儿"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/王二小/api.json","name":"王二小"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/api.json","name":"潇洒"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/戏曲音乐/api.json","name":"戏曲音乐"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/少儿频道/api.json","name":"少儿频道"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/OK/api.json","name":"OK"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/饭太硬/api.json", "name":"饭太硬"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/小米/api.json", "name":"小米"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/肥猫/api.json", "name":"肥猫"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/xyqonlinerule/main/XYQTVBox.json", "name":"香雅情[原]"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/南风/api.json", "name":"南风"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/PG/api.json", "name":"PG"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/摸鱼儿/api.json", "name":"摸鱼儿"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/王二小/api.json", "name":"王二小"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/api.json", "name":"潇洒"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/戏曲音乐/api.json", "name":"戏曲音乐"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/少儿频道/api.json", "name":"少儿频道"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/OK/api.json", "name":"OK"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/testboxapi/main/aowu/api.json","name":"嗷呜"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/testboxapi/main/newwex/api.json","name":"newwex"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/testboxapi/main/tvbox/api.json","name":"精简多线-聚"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/testboxapi/main/test1/api.json","name":"精简多线-选[小虎斑]"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/testboxapi/main/cang/影视/api.json","name":"精简多线-影视"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/testboxapi/main/cang/动漫/api.json","name":"精简多线-动漫"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/testboxapi/main/cang/文艺/api.json","name":"精简多线-文艺"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/testboxapi/main/cang/体育/api.json","name":"精简多线-体育"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/testboxapi/main/cang/教育/api.json","name":"精简多线-教育"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/testboxapi/main/cang/直播/api.json","name":"精简多线-直播"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/testboxapi/main/cang/磁力/api.json","name":"精简多线-磁力"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/testboxapi/main/cang/云盘/api.json","name":"精简多线-云盘"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/testboxapi/main/huban/api.json","name":"小虎斑"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/testboxapi/main/xiaosa/api.json","name":"潇洒单线路"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/testboxapi/main/xiaosac/影视/api.json","name":"潇洒多线-影视"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/testboxapi/main/xiaosac/动漫/api.json","name":"潇洒多线-动漫"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/testboxapi/main/xiaosac/文艺/api.json","name":"潇洒多线-文艺"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/testboxapi/main/xiaosac/教育/api.json","name":"潇洒多线-教育"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/testboxapi/main/xiaosac/磁力/api.json","name":"潇洒多线-磁力"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/testboxapi/main/xiaosac/云盘/api.json","name":"潇洒多线-云盘"},
 
 
 //https://ghfast.top/https://raw.githubusercontent.com/canghaixiao369/zy/main/a1
@@ -2756,6 +2842,7 @@
 {"name":"🐞┃湯┃东篱py源","url":"https://cnb.cool/junchao.tang/live/-/git/raw/main/py.json"},
 {"name":"🐞┃湯┃东篱cj源","url":"https://cnb.cool/junchao.tang/live/-/git/raw/main/cj.json"},
 {"name":"🐰┃湯┃(真心大佬源)","url":"https://cnb.cool/junchao.tang/LoveTV/-/git/raw/master/FongMi.json"},
+{"name":"🐠┃摸鱼","url":"https://6800.kstore.vip/fish.json"},
 //魔力云播 猫爪（ios专用）接口：http://wexfnw:wexfnw@cat.xn--4kq62z5rby2qupq9ub.top/index.js.md5
 //http://wexfnw:wexfnw@cat.999888987.xyz/index.js.md5
 //http://wexfnw:wexfnw@cat.999888123.xyz/index.js.md5
