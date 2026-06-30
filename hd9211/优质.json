@@ -80,6 +80,10 @@
  
  
 
+{"url":"https://fastly.jsdelivr.net/gh/Visupervi/TVBOX-AUTO@main/dist/tvbox.json","name":"Visupervi_tvbox"},
+{"url":"https://fastly.jsdelivr.net/gh/my521jf/my521jf.github.io@main/abc123.json","name":"my521jf_abc123"},
+{"url":"https://fastly.jsdelivr.net/gh/my521jf/my521jf.github.io@main/tv.json","name":"my521jf_tv"},
+
 {"url":"https://fastly.jsdelivr.net/gh/niuber/niuber@main/tvbox/api.json","name":"niuber_api"},
 {"url":"https://fastly.jsdelivr.net/gh/sck03407/TVbox@main/TV4.json","name":"sck03407_TV4"},
 {"url":"https://fastly.jsdelivr.net/gh/guru2016/tvbox-pro@main/my_tvbox.json","name":"guru2016"},
@@ -789,8 +793,11 @@
 {"url":"https://fastly.jsdelivr.net/gh/zengjian03/han@master/1/api.json","name":"zengjian03_1"},
 {"url":"https://fastly.jsdelivr.net/gh/zengjian03/han@master/2/api.json","name":"zengjian03_2"},
 {"url":"https://fastly.jsdelivr.net/gh/zengjian03/han@master/3/api.json","name":"zengjian03_3"},
-{"url":"https://fastly.jsdelivr.net/gh/zengjian03/han@master/4/api.json","name":"zengjian03_4"},
-{"url":"https://fastly.jsdelivr.net/gh/zengjian03/han@master/5/api.json","name":"zengjian03_5"},
+{"url":"https://fastly.jsdelivr.net/gh/zengjian03/han@master/3/影视.json","name":"zengjian03_影视"},
+{"url":"https://fastly.jsdelivr.net/gh/zengjian03/han@master/我的/api.json","name":"zengjian03_api"},
+{"url":"https://fastly.jsdelivr.net/gh/zengjian03/han@master/我的/js.json","name":"zengjian03_js"},
+{"url":"https://fastly.jsdelivr.net/gh/zengjian03/han@master/我的/py.json","name":"zengjian03_py"},
+{"url":"https://fastly.jsdelivr.net/gh/zengjian03/han@master/aowu.json","name":"zengjian03_py"},
 
 
 

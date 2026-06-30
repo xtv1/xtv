@@ -305,6 +305,11 @@
 {"url":"https://fastly.jsdelivr.net/gh/hfbykj/TVbox1@main/fljk.json","name":"hfbykj_fljk"},
 {"url":"https://fastly.jsdelivr.net/gh/hfbykj/TVbox1@main/x.jdon","name":"hfbykj_X"},
 {"url":"https://fastly.jsdelivr.net/gh/zengjian03/han@master/8/api.json","name":"zengjian03_api"},
+{"url":"https://fastly.jsdelivr.net/gh/zengjian03/han@master/18/api.json","name":"zengjian03_api"},
+{"url":"https://fastly.jsdelivr.net/gh/zengjian03/han@master/18/纯福利.json","name":"zengjian03_纯福利"},
+{"url":"https://fastly.jsdelivr.net/gh/zengjian03/han@master/我的/18.json","name":"zengjian03_18"},
+{"url":"https://fastly.jsdelivr.net/gh/zengjian03/han@master/我的/18.json","name":"zengjian03_18"},
+
 {"url":"https://fastly.jsdelivr.net/gh/wjz121/jkgr@main/XPTV.json","name":"wjz121_XPTV"},
 {"url":"https://fastly.jsdelivr.net/gh/kjrzxu/TVBox1@main/json/18.json","name":"kjrzxu_18"},
 {"url":"https://fastly.jsdelivr.net/gh/ab026000/PG@master/1818.json","name":"ab026000_1818"},
@@ -1024,6 +1029,14 @@
 {"url":"https://fastly.jsdelivr.net/gh/jieray/sexbox@main/a.json","name":"jieray_a"},
 {"url":"https://fastly.jsdelivr.net/gh/jieray/sexbox@main/meijiaonian.json","name":"jieray_meijiaonian"},
 {"url":"https://fastly.jsdelivr.net/gh/ZhouQuanJing/tvbox@main/fuli.json","name":"ZhouQuanJing_fuli"},
+
+
+
+
+
+
+
+
 
 
 
