@@ -76,14 +76,32 @@
 {"url":"https://zthaa.top/thzx/th.json","name":"挺好专享"},
 {"url":"https://zthaa.top/th/api.json","name":"挺好"},
 
-{"url":"https://gitee.com/lsc800416/tvbox/raw/master/顺.json","name":"顺财"},
- 
- 
+{"url":"https://lyrhub.github.io/tvbox-search/searchable.json","name":"searchable"},
+
+
+
+
+//20260704
+{"url":"https://fastly.jsdelivr.net/gh/AudiHub/WanXiang-Release@main/TVbox","name":"AudiHub_裤佬"},
+{"url":"https://fastly.jsdelivr.net/gh/nt2026xp/tv@main/tv.json","name":"nt2026xp_tv"},
+{"url":"https://fastly.jsdelivr.net/gh/xixu-me/tvbox-json-monitor@main/data/tvbox.json","name":"xixu-me_tvbox"},
+{"url":"https://fastly.jsdelivr.net/gh/xinloves-ops/tvbox@main/config.json","name":"xinloves-ops_config"},
+{"url":"https://fastly.jsdelivr.net/gh/8qNvKr/TV@main/Live.json","name":"8qNvKr_Live"},
+{"url":"https://fastly.jsdelivr.net/gh/mins0n/mybox@main/tvbox.json","name":"mins0n_tvbox"},
+{"url":"https://fastly.jsdelivr.net/gh/mins0n/mybox@main/tvbox","name":"mins0n_tvbox"},
+{"url":"https://fastly.jsdelivr.net/gh/mins0n/mybox@main/mybox.json","name":"mins0n_mybox"},
+{"url":"https://fastly.jsdelivr.net/gh/mins0n/mybox@main/caiji.json","name":"mins0n_caiji"},
+{"url":"https://fastly.jsdelivr.net/gh/Shuibeng2023/tvbox@main/FongMi.json","name":"Shuibeng2023_FongMi"},
+{"url":"https://fastly.jsdelivr.net/gh/liuzzh1971/tvbox-config@main/tvbox.json","name":"liuzzh1971_tvbox"},
+{"url":"https://fastly.jsdelivr.net/gh/liuzzh1971/tvbox-config@main/tvbox_fixed.json","name":"liuzzh1971_tvbox"},
+
+
+
+
 
 {"url":"https://fastly.jsdelivr.net/gh/Visupervi/TVBOX-AUTO@main/dist/tvbox.json","name":"Visupervi_tvbox"},
 {"url":"https://fastly.jsdelivr.net/gh/my521jf/my521jf.github.io@main/abc123.json","name":"my521jf_abc123"},
 {"url":"https://fastly.jsdelivr.net/gh/my521jf/my521jf.github.io@main/tv.json","name":"my521jf_tv"},
-
 {"url":"https://fastly.jsdelivr.net/gh/niuber/niuber@main/tvbox/api.json","name":"niuber_api"},
 {"url":"https://fastly.jsdelivr.net/gh/sck03407/TVbox@main/TV4.json","name":"sck03407_TV4"},
 {"url":"https://fastly.jsdelivr.net/gh/guru2016/tvbox-pro@main/my_tvbox.json","name":"guru2016"},
@@ -1436,6 +1454,7 @@
 {"url":"https://fastly.jsdelivr.net/gh/xc106346/tvbox@main/005.json","name":"xc106346_005"},
 {"url":"https://fastly.jsdelivr.net/gh/xc106346/tvbox@main/666.json","name":"xc106346_666"},
 {"url":"https://fastly.jsdelivr.net/gh/benefit77/TVBoxTools@main/pg/jsm.json","name":"benefit77_jsm"},
+
 {"url":"https://fastly.jsdelivr.net/gh/ne7359/tvurl@main/0821.json","name":"ne7359_0821"},
 {"url":"https://fastly.jsdelivr.net/gh/ne7359/tvurl@main/0825.json","name":"ne7359_0825"},
 {"url":"https://fastly.jsdelivr.net/gh/ne7359/tvurl@main/0826.json","name":"ne7359_0826"},
@@ -1444,6 +1463,8 @@
 {"url":"https://fastly.jsdelivr.net/gh/ne7359/tvurl@main/dianshi.json","name":"ne7359_dianshi"},
 {"url":"https://fastly.jsdelivr.net/gh/ne7359/tvurl@main/fty.json","name":"ne7359_fty"},
 {"url":"https://fastly.jsdelivr.net/gh/ne7359/tvurl@main/jsm.json","name":"ne7359_jsm"},
+{"url":"https://fastly.jsdelivr.net/gh/ne7359/tvurl@main/tools/jsm.json","name":"ne7359_jsm"},
+{"url":"https://fastly.jsdelivr.net/gh/ne7359/tvurl@main/tools/dianshi.json","name":"ne7359_dianshi"},
 {"url":"https://fastly.jsdelivr.net/gh/ne7359/tvurl@main/xiaosa/api.json","name":"ne7359_api"},
 {"url":"https://fastly.jsdelivr.net/gh/kyp126/TVBox@main/XC.json","name":"kyp126_XC"},
 {"url":"https://fastly.jsdelivr.net/gh/kyp126/TVBox@main/茄子","name":"kyp126_茄子"},

@@ -939,9 +939,7 @@
 {"url":"https://fastly.jsdelivr.net/gh/guo012577/hipy-drpy@main/sky4726/18.json","name":"guo012577_18"},
 {"url":"https://fastly.jsdelivr.net/gh/guo012577/hipy-drpy@main/yjl/tvbox18.json","name":"guo012577_tvbox18"},
 {"url":"https://fastly.jsdelivr.net/gh/guo012577/hipy-drpy@main/yjl/jthl.json","name":"guo012577_jthl"},
-{"url":"https://fastly.jsdelivr.net/gh/lyqnihao/m3u8@master/FGBLH/FG/海马影视","name":"lyqnihao_海马影视"},
-{"url":"https://fastly.jsdelivr.net/gh/lyqnihao/m3u8@master/FGBLH/FG/海豚影视","name":"lyqnihao_海豚影视"},
-{"url":"https://fastly.jsdelivr.net/gh/lyqnihao/m3u8@master/FGBLH/fgrjk/锋哥影视json","name":"lyqnihao_锋哥影视"},
+
 {"url":"https://fastly.jsdelivr.net/gh/LIUJEI/TB@master/xxx.jpg","name":"LIUJEI_xxx"},
 {"url":"https://fastly.jsdelivr.net/gh/LIUJEI/TS@main/休闲.json","name":"LIUJEI_休闲"},
 {"url":"https://fastly.jsdelivr.net/gh/LACHero01/Welfare@main/YUE/18.json","name":"LACHero01_18"},
@@ -1022,6 +1020,7 @@
 {"url":"https://fastly.jsdelivr.net/gh/lyqnihao/m3u8@master/FGBLH/FG/海马影视","name":"lyqnihao_海马影视"},
 {"url":"https://fastly.jsdelivr.net/gh/lyqnihao/m3u8@master/FGBLH/FG/鱼佬海豚.json","name":"lyqnihao_鱼佬海豚"},
 {"url":"https://fastly.jsdelivr.net/gh/lyqnihao/m3u8@master/FGBLH/FG/鱼壳海豚.json","name":"lyqnihao_鱼壳海豚"},
+{"url":"https://fastly.jsdelivr.net/gh/lyqnihao/m3u8@master/FGBLH/FG/鱼壳海豚py.json","name":"lyqnihao_鱼壳海豚py"},
 {"url":"https://fastly.jsdelivr.net/gh/lyqnihao/m3u8@master/FGBLH/fgrjk/9999","name":"lyqnihao_9999"},
 {"url":"https://fastly.jsdelivr.net/gh/lyqnihao/m3u8@master/FGBLH/fgrjk/锋哥影视json","name":"lyqnihao_锋哥影视"},
 
@@ -1030,8 +1029,9 @@
 {"url":"https://fastly.jsdelivr.net/gh/jieray/sexbox@main/meijiaonian.json","name":"jieray_meijiaonian"},
 {"url":"https://fastly.jsdelivr.net/gh/ZhouQuanJing/tvbox@main/fuli.json","name":"ZhouQuanJing_fuli"},
 
-
-
+{"url":"https://fastly.jsdelivr.net/gh/ljnpng/tvbox@main/missav-api.json","name":"ljnpng_missav"},
+{"url":"https://fastly.jsdelivr.net/gh/ljnpng/tvbox@main/missav.json","name":"ljnpng_missav"},
+{"url":"https://fastly.jsdelivr.net/gh/ljnpng/tvbox@main/nsfw.json","name":"ljnpng_nsfw"},
 
 
 
