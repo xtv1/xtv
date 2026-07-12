@@ -945,8 +945,11 @@
 {"url":"https://fastly.jsdelivr.net/gh/LACHero01/Welfare@main/YUE/18.json","name":"LACHero01_18"},
 {"url":"https://fastly.jsdelivr.net/gh/LACHero01/Welfare@main/YUE/recha-sex.json","name":"LACHero01_recha-sex"},
 
-{"url":"https://fastly.jsdelivr.net/gh/FGBLH/GHK@main/海豚666.json","name":"FGBLH_海豚666"},
-{"url":"https://fastly.jsdelivr.net/gh/FGBLH/GHK@main/鱼壳海豚.json","name":"FGBLH_鱼壳海豚"},
+{"url":"https://fastly.jsdelivr.net/gh/FGBLH/HKL@main/Web鱼壳海豚.json","name":"FGBLH_Web鱼壳海豚"},
+{"url":"https://fastly.jsdelivr.net/gh/FGBLH/HKL@main/Web鱼壳海豚py.json","name":"FGBLH_Web鱼壳海豚py"},
+{"url":"https://fastly.jsdelivr.net/gh/FGBLH/HKL@main/ok海豚.json","name":"FGBLH_ok海豚"},
+{"url":"https://fastly.jsdelivr.net/gh/FGBLH/HKL@main/ok海豚py.json","name":"FGBLH_ok海豚py"},
+
 
 {"url":"https://fastly.jsdelivr.net/gh/bear532/tvbox@main/a18.json","name":"bear532_a18"},
 {"url":"https://fastly.jsdelivr.net/gh/bear532/tvbox@main/a181.json","name":"bear532_a181"},
@@ -1009,18 +1012,22 @@
 {"url":"https://fastly.jsdelivr.net/gh/SYLONG7708/TV@main/sources/vod-lunatv-adult18-sorted-oktv.json","name":"SYLONG7708_adult18"},
 {"url":"https://fastly.jsdelivr.net/gh/SYLONG7708/TV@main/sources/vod-lunatv-full-oktv.json","name":"SYLONG7708_adult18"},
 {"url":"https://fastly.jsdelivr.net/gh/nt2026xp/tv@main/tv.json","name":"nt2026xp_tv"},
-{"url":"https://fastly.jsdelivr.net/gh/lyqnihao/proxy@main/FGBLH/fgrjk/9999","name":"nt2026xp_9999"},
-{"url":"https://fastly.jsdelivr.net/gh/lyqnihao/proxy@main/FGBLH/fgrjk/锋哥影视json","name":"nt2026xp_锋哥影视"},
 
 {"url":"https://fastly.jsdelivr.net/gh/lyqnihao/m3u8@master/FGBLH/FG/6666","name":"lyqnihao_6666"},
+{"url":"https://fastly.jsdelivr.net/gh/lyqnihao/m3u8@master/FGBLH/FG/Web鱼壳海豚.json","name":"lyqnihao_Web鱼壳海豚"},
+{"url":"https://fastly.jsdelivr.net/gh/lyqnihao/m3u8@master/FGBLH/FG/Web鱼壳海豚py.json","name":"lyqnihao_Web鱼壳海豚py"},
+{"url":"https://fastly.jsdelivr.net/gh/lyqnihao/m3u8@master/FGBLH/FG/ok海豚.json","name":"lyqnihao_ok海豚"},
+{"url":"https://fastly.jsdelivr.net/gh/lyqnihao/m3u8@master/FGBLH/FG/ok海豚py.json","name":"lyqnihao_ok海豚py"},
 {"url":"https://fastly.jsdelivr.net/gh/lyqnihao/m3u8@master/FGBLH/FG/海豚.json","name":"lyqnihao_海豚"},
 {"url":"https://fastly.jsdelivr.net/gh/lyqnihao/m3u8@master/FGBLH/FG/海豚666.json","name":"lyqnihao_海豚666"},
+{"url":"https://fastly.jsdelivr.net/gh/lyqnihao/m3u8@master/FGBLH/FG/海豚py.json","name":"lyqnihao_海豚py"},
 {"url":"https://fastly.jsdelivr.net/gh/lyqnihao/m3u8@master/FGBLH/FG/海豚影视","name":"lyqnihao_海豚影视"},
 {"url":"https://fastly.jsdelivr.net/gh/lyqnihao/m3u8@master/FGBLH/FG/海豚影视.json","name":"lyqnihao_海豚影视"},
 {"url":"https://fastly.jsdelivr.net/gh/lyqnihao/m3u8@master/FGBLH/FG/海马影视","name":"lyqnihao_海马影视"},
 {"url":"https://fastly.jsdelivr.net/gh/lyqnihao/m3u8@master/FGBLH/FG/鱼佬海豚.json","name":"lyqnihao_鱼佬海豚"},
 {"url":"https://fastly.jsdelivr.net/gh/lyqnihao/m3u8@master/FGBLH/FG/鱼壳海豚.json","name":"lyqnihao_鱼壳海豚"},
 {"url":"https://fastly.jsdelivr.net/gh/lyqnihao/m3u8@master/FGBLH/FG/鱼壳海豚py.json","name":"lyqnihao_鱼壳海豚py"},
+
 {"url":"https://fastly.jsdelivr.net/gh/lyqnihao/m3u8@master/FGBLH/fgrjk/9999","name":"lyqnihao_9999"},
 {"url":"https://fastly.jsdelivr.net/gh/lyqnihao/m3u8@master/FGBLH/fgrjk/锋哥影视json","name":"lyqnihao_锋哥影视"},
 
@@ -1034,14 +1041,30 @@
 {"url":"https://fastly.jsdelivr.net/gh/ljnpng/tvbox@main/nsfw.json","name":"ljnpng_nsfw"},
 
 {"url":"https://fastly.jsdelivr.net/gh/GodLike631/Ly@main/datas/haitun.json","name":"GodLike631_海豚"},
+{"url":"https://fastly.jsdelivr.net/gh/GodLike631/Ly@main/datas/lz.json","name":"GodLike631_lz"},
 {"url":"https://fastly.jsdelivr.net/gh/GodLike631/Ly@main/datas/蝴蝶影视全量版2la.json","name":"蝴蝶影视全量版"},
-{"url":"https://fastly.jsdelivr.net/gh/GodLike631/test@main/datas/老杨TV全量版6n1.json","name":"老杨TV全量版"},
-{"url":"https://fastly.jsdelivr.net/gh/GodLike631/test@main/datas/test.json","name":"GodLike631_test"},
+
 {"url":"https://fastly.jsdelivr.net/gh/GodLike631/test@main/datas/haitun.json","name":"GodLike631_海豚"},
+{"url":"https://fastly.jsdelivr.net/gh/GodLike631/test@main/datas/lz.json","name":"GodLike631_lz"},
+{"url":"https://fastly.jsdelivr.net/gh/GodLike631/test@main/datas/pick.json","name":"GodLike631_pick"},
+{"url":"https://fastly.jsdelivr.net/gh/GodLike631/test@main/datas/test.json","name":"GodLike631_test"},
+{"url":"https://fastly.jsdelivr.net/gh/GodLike631/test@main/datas/老杨TV全量版0va.json","name":"老杨TV全量版"},
+
 {"url":"https://fastly.jsdelivr.net/gh/GodLike631/Ly_me@main/datas/haitun.json","name":"GodLike631_海豚"},
+{"url":"https://fastly.jsdelivr.net/gh/GodLike631/Ly_me@main/datas/lz.json","name":"GodLike631_lz"},
 {"url":"https://fastly.jsdelivr.net/gh/GodLike631/Ly_me@main/datas/老杨TV全量版m4a.json","name":"老杨TV全量版m4a"},
+
 {"url":"https://fastly.jsdelivr.net/gh/GodLike631/Ly_18@main/datas/haitun.json","name":"GodLike631_海豚"},
-{"url":"https://fastly.jsdelivr.net/gh/GodLike631/Ly_18@main/datas/haitun.json","name":"GodLike631_海豚"},
+
+
+{"url":"https://fastly.jsdelivr.net/gh/ansun1714/tvbox@main/my-private-api.json","name":"ansun1714"},
+{"url":"https://fastly.jsdelivr.net/gh/whypuss/tvbox-premium-sources@main/config.json","name":"whypuss_config"},
+{"url":"https://fastly.jsdelivr.net/gh/whypuss/tvbox-premium-sources@main/config7.json","name":"whypuss_config7"},
+{"url":"https://fastly.jsdelivr.net/gh/whypuss/tvbox-15-premium@main/config.json","name":"whypuss_config"},
+{"url":"https://fastly.jsdelivr.net/gh/wangshui898/YSZY@main/tvbox-porn.json","name":"wangshui898_porn"},
+
+
+
 
 
 
