@@ -410,33 +410,36 @@
 
 
 //https://fastly.jsdelivr.net/gh/25175/tvyuan@master/tvbox_multi.json
-{"sourceName":"[198ms] 荐片","sourceUrl":"https://tv.203511.xyz/0821.json"},
-{"sourceName":"[2876ms] 金鹰","sourceUrl":"http://550.3vcn.work/wdjyys.json"},
-{"sourceName":"[136ms] 潇洒","sourceUrl":"https://qist.wyfc.qzz.io/xiaosa/api.json"},
-{"sourceName":"[163ms] 11","sourceUrl":"https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json"},
-{"sourceName":"[209ms] 牛儿","sourceUrl":"https://9280.kstore.space/wex.json"},
-{"sourceName":"[223ms] 饭太硬","sourceUrl":"https://qist.wyfc.qzz.io/fty.json"},
-{"sourceName":"[240ms] 少儿频道","sourceUrl":"https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer"},
-{"sourceName":"[367ms] ok","sourceUrl":"https://raw.liucn.cc/box/m.json"},
-{"sourceName":"[374ms] ok","sourceUrl":"https://gist.githubusercontent.com/ph7368/20ee6c7b64d77d82f8f4162cdd04ad61/raw/gistfile1.txt"},
-{"sourceName":"[399ms] 小盒子4K","sourceUrl":"http://xhztv.top/4k.json"},
-{"sourceName":"[578ms] 王二小","sourceUrl":"https://9280.kstore.vip/newwex.json"},
-{"sourceName":"[588ms] 饭太硬","sourceUrl":"http://fty.888484.xyz/tv"},
-{"sourceName":"[625ms] 软件","sourceUrl":"http://47.96.82.41:5188/api.json"},
-{"sourceName":"[628ms] 摸鱼儿","sourceUrl":"https://6800.kstore.vip/fish.json"},
-{"sourceName":"[719ms] http://www.xn--sss604efuw.net/tv","sourceUrl":"http://www.xn--sss604efuw.net/tv"},
-{"sourceName":"[739ms] 牛二","sourceUrl":"https://9280.kstore.space/newwex.json"},
-{"sourceName":"[757ms] 肥猫备用接口","sourceUrl":"http://feimao.pro"},
-{"sourceName":"[1186ms] fmys","sourceUrl":"http://fmys.top/fmys.json"},
-{"sourceName":"[1297ms] 王二小接口","sourceUrl":"http://tvbox.xn--4kq62z5rby2qupq9ub.top/"},
-{"sourceName":"[1341ms] https://700sjro44343.vicp.fun/eggp/0615/tv.php","sourceUrl":"https://700sjro44343.vicp.fun/eggp/0615/tv.php"},
-{"sourceName":"[1349ms] 新接口","sourceUrl":"https://www.iyouhun.com/tv/wex"},
-{"sourceName":"[1374ms] 王二小放牛娃","sourceUrl":"http://tv.999888987.xyz"},
-{"sourceName":"[1399ms] 宝盒接口","sourceUrl":"http://宝盒接口.top"},
-{"sourceName":"[1515ms] xn--6orr3pi6g9uu","sourceUrl":"http://xn--6orr3pi6g9uu.top/"},
-{"sourceName":"[1827ms] 1","sourceUrl":"https://700sjro44343.vicp.fun/vip/vip/tv.json"},
-{"sourceName":"[1841ms] my interface","sourceUrl":"http://124.223.214.31:8/api.json"},
-{"sourceName":"[7288ms] 2","sourceUrl":"https://gitee.com/fuleishu/fulei/raw/master/fuleixyx.json"},
+{"sourceName":"[90ms] 荐片","sourceUrl":"https://tv.203511.xyz/0821.json"},
+{"sourceName":"[71ms] 11","sourceUrl":"https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json"},
+{"sourceName":"[77ms] 潇洒","sourceUrl":"https://qist.wyfc.qzz.io/xiaosa/api.json"},
+{"sourceName":"[250ms] 少儿频道","sourceUrl":"https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer"},
+{"sourceName":"[262ms] 饭太硬","sourceUrl":"https://qist.wyfc.qzz.io/fty.json"},
+{"sourceName":"[263ms] ok","sourceUrl":"https://raw.liucn.cc/box/m.json"},
+{"sourceName":"[268ms] 牛儿","sourceUrl":"https://9280.kstore.space/wex.json"},
+{"sourceName":"[294ms] ok","sourceUrl":"https://gist.githubusercontent.com/ph7368/20ee6c7b64d77d82f8f4162cdd04ad61/raw/gistfile1.txt"},
+{"sourceName":"[301ms] 王二小","sourceUrl":"https://9280.kstore.vip/newwex.json"},
+{"sourceName":"[329ms] 牛二","sourceUrl":"https://9280.kstore.space/newwex.json"},
+{"sourceName":"[359ms] 肥猫备用接口","sourceUrl":"http://feimao.pro"},
+{"sourceName":"[495ms] 摸鱼儿","sourceUrl":"https://6800.kstore.vip/fish.json"},
+{"sourceName":"[669ms] http://www.xn--sss604efuw.net/tv","sourceUrl":"http://www.xn--sss604efuw.net/tv"},
+{"sourceName":"[675ms] 饭太硬","sourceUrl":"http://fty.888484.xyz/tv"},
+{"sourceName":"[788ms] my interface","sourceUrl":"http://124.223.214.31:8/api.json"},
+{"sourceName":"[959ms] fmys","sourceUrl":"http://fmys.top/fmys.json"},
+{"sourceName":"[1047ms] uuccc","sourceUrl":"http://xn--5mqx81b535a.com/"},
+{"sourceName":"[1338ms] 宝盒接口","sourceUrl":"http://宝盒接口.top"},
+{"sourceName":"[1418ms] xn--6orr3pi6g9uu","sourceUrl":"http://xn--6orr3pi6g9uu.top/"},
+{"sourceName":"[1529ms] 小盒子4K","sourceUrl":"http://xhztv.top/4k.json"},
+{"sourceName":"[1573ms] 新接口","sourceUrl":"https://www.iyouhun.com/tv/wex"},
+{"sourceName":"[1599ms] 王二小接口","sourceUrl":"http://tvbox.xn--4kq62z5rby2qupq9ub.top/"},
+{"sourceName":"[1605ms] 王二小放牛娃","sourceUrl":"http://tv.999888987.xyz"},
+{"sourceName":"[1695ms] https://700sjro44343.vicp.fun/eggp/0615/tv.php","sourceUrl":"https://700sjro44343.vicp.fun/eggp/0615/tv.php"},
+{"sourceName":"[1752ms] 俊哥接口","sourceUrl":"http://home.jundie.top:81/top98.json"},
+{"sourceName":"[2544ms] 1","sourceUrl":"https://700sjro44343.vicp.fun/vip/vip/tv.json"},
+{"sourceName":"[2758ms] 影视仓","sourceUrl":"http://影视仓.com/"},
+{"sourceName":"[3704ms] 二月红接口","sourceUrl":"https://700sjro44343.vicp.fun/eggp/0211/tv.json"},
+{"sourceName":"[4318ms] 2","sourceUrl":"https://gitee.com/fuleishu/fulei/raw/master/fuleixyx.json"},
+{"sourceName":"[10008ms] 软件","sourceUrl":"http://47.96.82.41:5188/api.json"},
 
 
 
@@ -501,11 +504,21 @@
 {"sourceName":"🔞18+🔞","sourceUrl":"https://fastly.jsdelivr.net/gh/sundaguanren/pg1@main/hduocang .txt"},
 
 
+
+//20260719
+{"sourceName":"zitengjushi","sourceUrl":"https://fastly.jsdelivr.net/gh/zitengjushi/zitengjushi.github.io@main/github.json"},
+{"sourceName":"arminyu9527","sourceUrl":"https://fastly.jsdelivr.net/gh/arminyu9527/tvbox@main/all.json"},
+{"sourceName":"zengjian03","sourceUrl":"https://fastly.jsdelivr.net/gh/zengjian03/han@master/api.json"},
+{"sourceName":"HIEIHIEI-ml","sourceUrl":"https://fastly.jsdelivr.net/gh/HIEIHIEI/TVBOX@main/ml.json"},
+{"sourceName":"lylywayr_warehouse","sourceUrl":"https://fastly.jsdelivr.net/gh/lylywayr/tv-matrix-core-tvbox-github-pages@main/public/output/warehouse.json"},
+{"sourceName":"orVC","sourceUrl":"https://fastly.jsdelivr.net/gh/orVC/tvbox@main/config.json"},
+
+
+
 //20260712
 {"sourceName":"Kwei168_tvbox","sourceUrl":"https://fastly.jsdelivr.net/gh/Kwei168/tvbox@main/tvbox_config.json"},
 {"sourceName":"Kwei168_tvbox","sourceUrl":"https://fastly.jsdelivr.net/gh/Kwei168/tvbox@main/tvbox_config_lite.json"},
 {"sourceName":"xuelong876","sourceUrl":"https://fastly.jsdelivr.net/gh/xuelong876/mybox_PG@main/network_line.json"},
-{"sourceName":"arminyu9527","sourceUrl":"https://fastly.jsdelivr.net/gh/arminyu9527/tvbox@main/all.json"},
 {"sourceName":"xinloves-ops","sourceUrl":"https://fastly.jsdelivr.net/gh/xinloves-ops/tvbox@main/m.json"},
 {"sourceName":"niuber","sourceUrl":"https://fastly.jsdelivr.net/gh/niuber/niuber@main/niuber.json"},
 {"sourceName":"wan828963","sourceUrl":"https://fastly.jsdelivr.net/gh/wan828963-code/tvbox-config@main/tvbox"},
@@ -513,12 +526,7 @@
 {"sourceName":"Shuibeng2023_dx2","sourceUrl":"https://fastly.jsdelivr.net/gh/Shuibeng2023/tvbox@main/dx2.json"},
 {"sourceName":"wangshui898_tvbox","sourceUrl":"https://fastly.jsdelivr.net/gh/wangshui898/YSZY@main/tvbox-multiple-porn.json"},
 {"sourceName":"wangshui898_tvbox","sourceUrl":"https://fastly.jsdelivr.net/gh/wangshui898/YSZY@main/tvbox-multiple.json"},
-{"sourceName":"lylywayr_warehouse","sourceUrl":"https://fastly.jsdelivr.net/gh/lylywayr/tv-matrix-core-tvbox-github-pages@main/public/output/warehouse.json"},
 {"sourceName":"lylywayr","sourceUrl":"https://fastly.jsdelivr.net/gh/lylywayr/tv-matrix-core-tvbox-github-pages@main/output/warehouse.json"},
-{"sourceName":"zitengjushi","sourceUrl":"https://fastly.jsdelivr.net/gh/zitengjushi/zitengjushi.github.io@main/github.json"},
-
-
-
 
 
 //20260704
@@ -544,7 +552,6 @@
 {"sourceName":"woshishiq1_dc","sourceUrl":"https://fastly.jsdelivr.net/gh/woshishiq1/hipy-drpy2@main/sky4726/dc.json"},
 {"sourceName":"woshishiq1_xczdz","sourceUrl":"https://fastly.jsdelivr.net/gh/woshishiq1/hipy-drpy2@main/wzxxcz/xczdz.json"},
 {"sourceName":"woshishiq1_DC","sourceUrl":"https://fastly.jsdelivr.net/gh/woshishiq1/hipy-drpy2@main/yjl/DC.json"},
-{"sourceName":"HIEIHIEI-ml","sourceUrl":"https://fastly.jsdelivr.net/gh/HIEIHIEI/TVBOX@main/ml.json"},
 {"sourceName":"Py-Ctrl","sourceUrl":"https://fastly.jsdelivr.net/gh/Py-Ctrl/Tvbox@main/tvbox.json"},
 {"sourceName":"FlowerSeeFlowerOpen_1","sourceUrl":"https://fastly.jsdelivr.net/gh/FlowerSeeFlowerOpen/TVBox_interface@main/betainterface.json"},
 {"sourceName":"FlowerSeeFlowerOpen_2","sourceUrl":"https://fastly.jsdelivr.net/gh/FlowerSeeFlowerOpen/TVBox_interface@main/stableinterface.json"},
@@ -606,7 +613,6 @@
 {"sourceName":"JackiesChans-x1","sourceUrl":"https://fastly.jsdelivr.net/gh/JackiesChans/tvziyong@main/x1.json"},
 {"sourceName":"keluo8824-cell","sourceUrl":"https://fastly.jsdelivr.net/gh/keluo8824-cell/tvbox@main/box/shu.json"},
 {"sourceName":"WWH3602_泫穹","sourceUrl":"https://fastly.jsdelivr.net/gh/WWH3602/tvbox-source@main/_warehouse/xuanqiong_agg.json"},
-{"sourceName":"orVC","sourceUrl":"https://fastly.jsdelivr.net/gh/orVC/tvbox@main/config.json"},
 {"sourceName":"chendi0207","sourceUrl":"https://fastly.jsdelivr.net/gh/chendi0207/my-TVBOX@main/本地仓.txt"},
 {"sourceName":"yutian81","sourceUrl":"https://fastly.jsdelivr.net/gh/yutian81/data-source@main/txbox/duocang.json"},
 {"sourceName":"runganer_tv","sourceUrl":"https://fastly.jsdelivr.net/gh/runganer/livebox@main/tv.json"},
@@ -722,8 +728,9 @@
 {"sourceName":"liuyuekai-mssxmoon","sourceUrl":"https://fastly.jsdelivr.net/gh/liuyuekai-mssxmoon/tvbox@main/多仓线路.txt"},
 
 {"sourceName":"①🍱稳定仓🍭长期有效🍭","sourceUrl":"https://fastly.jsdelivr.net/gh/LIUJEI/TB@master/drpy/AC.json"},
-{"sourceName":"④🖼本地仓🍭测试慎用🍭","sourceUrl":"https://fastly.jsdelivr.net/gh/LIUJEI/TB@master/drpy/CC.json"},
-{"sourceName":"④🖼本地仓🍭测试慎用🍭","sourceUrl":"https://fastly.jsdelivr.net/gh/LIUJEI/TB@master/drpy/ZYC.json"},
+{"sourceName":"🍱稳定仓🍭长期有效🍭","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/drpy/AC.json"},
+{"sourceName":"🎎急速仓🍭短期有效🍭","sourceUrl":"https://d.kstore.dev/download/12194/%E8%87%AA%E7%94%A8/CK.json"},
+{"sourceName":"🎎测试仓🍭短期有效🍭","sourceUrl":"https://gitee.com/lyun_1_0/TS/raw/main/drpy/AC.json"},
 
 
 {"sourceName":"mu1978jun-666","sourceUrl":"https://fastly.jsdelivr.net/gh/mu1978jun/KS@main/666.txt"},

@@ -308,7 +308,7 @@
 {"url":"https://fastly.jsdelivr.net/gh/zengjian03/han@master/18/api.json","name":"zengjian03_api"},
 {"url":"https://fastly.jsdelivr.net/gh/zengjian03/han@master/18/纯福利.json","name":"zengjian03_纯福利"},
 {"url":"https://fastly.jsdelivr.net/gh/zengjian03/han@master/我的/18.json","name":"zengjian03_18"},
-{"url":"https://fastly.jsdelivr.net/gh/zengjian03/han@master/我的/18.json","name":"zengjian03_18"},
+
 
 {"url":"https://fastly.jsdelivr.net/gh/wjz121/jkgr@main/XPTV.json","name":"wjz121_XPTV"},
 {"url":"https://fastly.jsdelivr.net/gh/kjrzxu/TVBox1@main/json/18.json","name":"kjrzxu_18"},
@@ -1041,27 +1041,43 @@
 {"url":"https://fastly.jsdelivr.net/gh/ljnpng/tvbox@main/nsfw.json","name":"ljnpng_nsfw"},
 
 {"url":"https://fastly.jsdelivr.net/gh/GodLike631/Ly@main/datas/haitun.json","name":"GodLike631_海豚"},
+{"url":"https://fastly.jsdelivr.net/gh/GodLike631/Ly@main/datas/haitun_backup.json","name":"GodLike631_海豚"},
 {"url":"https://fastly.jsdelivr.net/gh/GodLike631/Ly@main/datas/lz.json","name":"GodLike631_lz"},
+{"url":"https://fastly.jsdelivr.net/gh/GodLike631/Ly@main/datas/lz_backup.json","name":"GodLike631_lz"},
 {"url":"https://fastly.jsdelivr.net/gh/GodLike631/Ly@main/datas/蝴蝶影视全量版2la.json","name":"蝴蝶影视全量版"},
 
-{"url":"https://fastly.jsdelivr.net/gh/GodLike631/test@main/datas/haitun.json","name":"GodLike631_海豚"},
-{"url":"https://fastly.jsdelivr.net/gh/GodLike631/test@main/datas/lz.json","name":"GodLike631_lz"},
-{"url":"https://fastly.jsdelivr.net/gh/GodLike631/test@main/datas/pick.json","name":"GodLike631_pick"},
-{"url":"https://fastly.jsdelivr.net/gh/GodLike631/test@main/datas/test.json","name":"GodLike631_test"},
-{"url":"https://fastly.jsdelivr.net/gh/GodLike631/test@main/datas/老杨TV全量版0va.json","name":"老杨TV全量版"},
-
 {"url":"https://fastly.jsdelivr.net/gh/GodLike631/Ly_me@main/datas/haitun.json","name":"GodLike631_海豚"},
+{"url":"https://fastly.jsdelivr.net/gh/GodLike631/Ly_me@main/datas/haitun_backup.json","name":"GodLike631_海豚"},
 {"url":"https://fastly.jsdelivr.net/gh/GodLike631/Ly_me@main/datas/lz.json","name":"GodLike631_lz"},
+{"url":"https://fastly.jsdelivr.net/gh/GodLike631/Ly_me@main/datas/lz_backup.json","name":"GodLike631_lz"},
 {"url":"https://fastly.jsdelivr.net/gh/GodLike631/Ly_me@main/datas/老杨TV全量版m4a.json","name":"老杨TV全量版m4a"},
 
 {"url":"https://fastly.jsdelivr.net/gh/GodLike631/Ly_18@main/datas/haitun.json","name":"GodLike631_海豚"},
+{"url":"https://fastly.jsdelivr.net/gh/GodLike631/Ly_18@main/datas/haitun_backup.json","name":"GodLike631_海豚"},
 
+{"url":"https://fastly.jsdelivr.net/gh/GodLike631/test@main/datas/haitun.json","name":"GodLike631_海豚"},
+{"url":"https://fastly.jsdelivr.net/gh/GodLike631/test@main/datas/haitun_backup.json","name":"GodLike631_海豚"},
+{"url":"https://fastly.jsdelivr.net/gh/GodLike631/test@main/datas/lz.json","name":"GodLike631_lz"},
+{"url":"https://fastly.jsdelivr.net/gh/GodLike631/test@main/datas/lz_backup.json","name":"GodLike631_lz"},
+{"url":"https://fastly.jsdelivr.net/gh/GodLike631/test@main/datas/pick.json","name":"GodLike631_pick"},
+{"url":"https://fastly.jsdelivr.net/gh/GodLike631/test@main/datas/test.json","name":"GodLike631_test"},
+{"url":"https://fastly.jsdelivr.net/gh/GodLike631/test@main/datas/老杨TV全量版xdu.json","name":"老杨TV全量版"},
+
+{"url":"https://fastly.jsdelivr.net/gh/GodLike631/Ly_live@main/datas/haitun.json","name":"GodLike631_海豚"},
+{"url":"https://fastly.jsdelivr.net/gh/GodLike631/Ly_live@main/datas/haitun_backup.json","name":"GodLike631_海豚"},
 
 {"url":"https://fastly.jsdelivr.net/gh/ansun1714/tvbox@main/my-private-api.json","name":"ansun1714"},
 {"url":"https://fastly.jsdelivr.net/gh/whypuss/tvbox-premium-sources@main/config.json","name":"whypuss_config"},
 {"url":"https://fastly.jsdelivr.net/gh/whypuss/tvbox-premium-sources@main/config7.json","name":"whypuss_config7"},
 {"url":"https://fastly.jsdelivr.net/gh/whypuss/tvbox-15-premium@main/config.json","name":"whypuss_config"},
 {"url":"https://fastly.jsdelivr.net/gh/wangshui898/YSZY@main/tvbox-porn.json","name":"wangshui898_porn"},
+
+{"url":"https://fastly.jsdelivr.net/gh/Li-Deng-Hui/ComponentProject@master/ys.json","name":"Li-Deng-Hui_ys"},
+{"url":"https://fastly.jsdelivr.net/gh/Li-Deng-Hui/ComponentProject@master/ys1.json","name":"Li-Deng-Hui_ys1"},
+{"url":"https://fastly.jsdelivr.net/gh/g774320776-alt/tvbox-py@main/sub.json","name":"g774320776-alt_sub"},
+{"url":"https://fastly.jsdelivr.net/gh/g774320776-alt/tvbox-py@main/sub.json.bak","name":"g774320776-alt_sub"},
+{"url":"https://fastly.jsdelivr.net/gh/geoisam/FuckScripts@main/json/adult.json","name":"geoisam_adult"},
+{"url":"https://fastly.jsdelivr.net/gh/luvsic73/yingshicang-91jav-clean@main/config.json","name":"luvsic73_91jav"},
 
 
 
