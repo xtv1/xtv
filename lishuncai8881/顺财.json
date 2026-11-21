@@ -77,10 +77,7 @@
         },
 
 
-{"key": "csp_蝶众短剧","name": "🦋蝶众短剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"./json/蝶众短剧.json"},
-{"key": "csp_九洲短剧","name": "🦋九洲短剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"./json/九洲短剧.json"},
-{"key": "csp_五五短剧","name": "🦋五五短剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"./json/五五短剧.json"},
-{"key": "csp_蓝岛影视","name": "🦋蓝岛影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"./json/蓝岛影视.json"},
+
 {"key": "csp_樱花动漫","name": "🌇樱花动漫","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"./json/樱花动漫.json"},
 {"key":"csp_XBPQ_厂长影院","name":"🎬厂长影院","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"./json/厂长影院.json"},
 
@@ -762,6 +759,83 @@
    {"name":"Json并发","type":2,"url":"Parallel"},
    {"name":"解析聚合","type":3,"url":"Web"},
    {"name":"Json轮询","type":2,"url":"Sequence"},
+{
+     
+      "name": "4K",
+      "type": 1,
+      "url": "http://jx.4kbox.top/jx/?url=",
+      "ext": {
+        "flag": [
+          "seven",
+          "mgtv",
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          
+          "49",
+          "49zyw",
+          "bfzy",
+          "bfbfvip",
+          "bfzym3u8",
+          "lz",
+          "lzm3u8",
+          "cdnlz",
+          "ffzy",
+          "online",
+          "ffm3u8",
+          "乐视",
+          "leshi",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩",
+          "mgtv",
+          "芒果",
+          "芒果"
+        ],
+        "header": {
+          "User-Agent": "Lavf/58.12.100"
+        }
+      }
+    },
+    {
+
+        
+      "name": "8k",
+      "type": 0,
+      "url": "https://yczhiyu.com/runtime/cache/jx.php?url=",
+      "ext": {
+        "flag": [
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩",
+          "mgtv",
+          "芒果",
+          "芒果"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
 {"name": "🧡开心果🧡","type": 1,"url": "http://116.62.133.86:56682/api/?key=oDE5dyA0Xosa3OtRzV&url="},
 { "name": "💓淘片🧡", "type": 0, "url": "https://jx.yparse.com/index.php?url=", "ext": { "header": { "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36" } } },
 { "name": "💛夏夜💚", "type": "1", "url": "http://8.155.50.80/xiayexk.php?url=", "ext": { "flag": [ "qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "tnmb", "seven", "bilibili", "1905" ]} },
